@@ -1,0 +1,1678 @@
+﻿Log file open, 02/10/21 16:59:43
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.657037
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-14469661
+LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz, GPU: NVIDIA GeForce GTX 1650 SUPER
+LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/jonny/Documents/Unreal Projects/MyProject/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.02.10-21.59.44:279][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.02.10-21.59.44:279][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.02.10-21.59.44:279][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/jonny/Documents/Unreal Projects/MyProject/Saved/Config/Windows/Engine.ini]
+[2021.02.10-21.59.44:279][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.02.10-21.59.44:279][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2021.02.10-21.59.44:279][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/jonny/Documents/Unreal Projects/MyProject/Saved/Config/Windows/Engine.ini]
+[2021.02.10-21.59.44:279][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/jonny/Documents/Unreal Projects/MyProject/Saved/Config/Windows/Engine.ini]
+[2021.02.10-21.59.44:279][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.02.10-21.59.44:279][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.02.10-21.59.44:279][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.02.10-21.59.44:279][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.02.10-21.59.44:279][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.02.10-21.59.44:279][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.02.10-21.59.44:279][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.02.10-21.59.44:279][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.02.10-21.59.44:279][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.02.10-21.59.44:279][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.02.10-21.59.44:279][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.02.10-21.59.44:279][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.02.10-21.59.44:279][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.02.10-21.59.44:279][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.02.10-21.59.44:279][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/jonny/Documents/Unreal Projects/MyProject/Saved/Config/Windows/Engine.ini]
+[2021.02.10-21.59.44:279][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.02.10-21.59.44:279][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.02.10-21.59.44:279][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.02.10-21.59.44:279][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.02.10-21.59.44:279][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.02.10-21.59.44:279][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.02.10-21.59.44:279][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.02.10-21.59.44:279][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.02.10-21.59.44:279][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.02.10-21.59.44:279][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.02.10-21.59.44:279][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.02.10-21.59.44:279][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.02.10-21.59.44:279][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.02.10-21.59.44:279][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/jonny/Documents/Unreal Projects/MyProject/Saved/Config/Windows/Engine.ini]
+[2021.02.10-21.59.44:279][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/jonny/Documents/Unreal Projects/MyProject/Saved/Config/Windows/Engine.ini]
+[2021.02.10-21.59.44:281][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/jonny/Documents/Unreal Projects/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.02.10-21.59.44:281][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.02.10-21.59.44:281][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.02.10-21.59.44:281][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/jonny/Documents/Unreal Projects/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.02.10-21.59.44:281][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.02.10-21.59.44:281][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/jonny/Documents/Unreal Projects/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.02.10-21.59.44:281][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.02.10-21.59.44:281][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.02.10-21.59.44:281][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.02.10-21.59.44:281][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.02.10-21.59.44:281][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.02.10-21.59.44:281][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.02.10-21.59.44:281][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.02.10-21.59.44:281][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.02.10-21.59.44:281][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.02.10-21.59.44:281][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.02.10-21.59.44:281][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.02.10-21.59.44:281][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.02.10-21.59.44:281][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.02.10-21.59.44:281][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.02.10-21.59.44:281][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.02.10-21.59.44:281][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.02.10-21.59.44:281][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.02.10-21.59.44:281][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.02.10-21.59.44:281][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/jonny/Documents/Unreal Projects/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.02.10-21.59.44:281][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.02.10-21.59.44:281][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.02.10-21.59.44:281][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.02.10-21.59.44:281][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.02.10-21.59.44:281][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.02.10-21.59.44:281][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.02.10-21.59.44:281][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.02.10-21.59.44:281][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.02.10-21.59.44:281][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.02.10-21.59.44:281][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.02.10-21.59.44:281][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.02.10-21.59.44:281][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.02.10-21.59.44:281][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.02.10-21.59.44:281][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.02.10-21.59.44:281][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.02.10-21.59.44:281][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.02.10-21.59.44:281][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.02.10-21.59.44:281][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.02.10-21.59.44:281][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.02.10-21.59.44:281][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.02.10-21.59.44:281][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.02.10-21.59.44:281][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.02.10-21.59.44:281][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.02.10-21.59.44:281][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.02.10-21.59.44:281][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.02.10-21.59.44:281][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/jonny/Documents/Unreal Projects/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/jonny/Documents/Unreal Projects/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/jonny/Documents/Unreal Projects/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/jonny/Documents/Unreal Projects/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.02.10-21.59.44:282][  0]LogInit: Selected Device Profile: [Windows]
+[2021.02.10-21.59.44:282][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.02.10-21.59.44:282][  0]LogHAL: Display: Platform has ~ 32 GB [34322714624 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.02.10-21.59.44:282][  0]LogInit: Going up to parent DeviceProfile []
+[2021.02.10-21.59.44:282][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/jonny/Documents/Unreal Projects/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/jonny/Documents/Unreal Projects/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/jonny/Documents/Unreal Projects/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/jonny/Documents/Unreal Projects/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.02.10-21.59.44:282][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/jonny/Documents/Unreal Projects/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/jonny/Documents/Unreal Projects/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/jonny/Documents/Unreal Projects/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/jonny/Documents/Unreal Projects/MyProject/Saved/Config/Windows/Scalability.ini]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.02.10-21.59.44:283][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.02.10-21.59.44:284][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.02.10-21.59.44:284][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.02.10-21.59.44:284][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.02.10-21.59.44:284][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/jonny/Documents/Unreal Projects/MyProject/Saved/Config/Windows/Engine.ini]
+[2021.02.10-21.59.44:284][  0]LogInit: Computer: DESKTOP-31F1J12
+[2021.02.10-21.59.44:284][  0]LogInit: User: jonny
+[2021.02.10-21.59.44:284][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.02.10-21.59.44:284][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.02.10-21.59.44:284][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2021.02.10-21.59.44:284][  0]LogMemory: Platform Memory Stats for Windows
+[2021.02.10-21.59.44:284][  0]LogMemory: Process Physical Memory: 113.20 MB used, 113.20 MB peak
+[2021.02.10-21.59.44:284][  0]LogMemory: Process Virtual Memory: 96.00 MB used, 96.00 MB peak
+[2021.02.10-21.59.44:284][  0]LogMemory: Physical Memory: 7041.00 MB used,  25691.70 MB free, 32732.69 MB total
+[2021.02.10-21.59.44:284][  0]LogMemory: Virtual Memory: 5143.11 MB used,  134212584.00 MB free, 134217728.00 MB total
+[2021.02.10-21.59.44:288][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.02.10-21.59.44:318][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.02.10-21.59.44:319][  0]LogInit: Using OS detected language (en-US).
+[2021.02.10-21.59.44:319][  0]LogInit: Using OS detected locale (en-US).
+[2021.02.10-21.59.44:323][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.02.10-21.59.44:476][  0]LogInit: Setting process to per monitor DPI aware
+[2021.02.10-21.59.44:519][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.02.10-21.59.44:519][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.02.10-21.59.44:686][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.02.10-21.59.44:686][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.02.10-21.59.44:686][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.02.10-21.59.44:686][  0]LogD3D11RHI: D3D11 adapters:
+[2021.02.10-21.59.44:768][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1650 SUPER' (Feature Level 11_0)
+[2021.02.10-21.59.44:768][  0]LogD3D11RHI:       3955/0/16366 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.02.10-21.59.44:770][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.02.10-21.59.44:770][  0]LogD3D11RHI:       0/0/16366 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.02.10-21.59.44:770][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.02.10-21.59.44:776][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.02.10-21.59.44:776][  0]LogD3D11RHI:     GPU DeviceId: 0x2187 (for the marketing name, search the web for "GPU Device Id")
+[2021.02.10-21.59.44:776][  0]LogWindows: EnumDisplayDevices:
+[2021.02.10-21.59.44:776][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1650 SUPER' (P:1 D:1)
+[2021.02.10-21.59.44:776][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1650 SUPER' (P:0 D:0)
+[2021.02.10-21.59.44:776][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1650 SUPER' (P:0 D:0)
+[2021.02.10-21.59.44:777][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1650 SUPER' (P:0 D:0)
+[2021.02.10-21.59.44:777][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.02.10-21.59.44:777][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650 SUPER
+[2021.02.10-21.59.44:777][  0]LogD3D11RHI:   Driver Version: 461.09 (internal:27.21.14.6109, unified:461.09)
+[2021.02.10-21.59.44:777][  0]LogD3D11RHI:      Driver Date: 12-31-2020
+[2021.02.10-21.59.44:777][  0]LogRHI: Texture pool is 2768 MB (70% of 3955 MB)
+[2021.02.10-21.59.44:831][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.02.10-21.59.44:831][  0]LogD3D11RHI: Async texture creation enabled
+[2021.02.10-21.59.44:831][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.02.10-21.59.44:847][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.02.10-21.59.45:173][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.02.10-21.59.45:192][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.02.10-21.59.45:192][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.02.10-21.59.45:192][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.02.10-21.59.45:192][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.02.10-21.59.45:192][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.02.10-21.59.45:192][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.02.10-21.59.45:192][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.02.10-21.59.45:192][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.02.10-21.59.45:192][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.02.10-21.59.45:192][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.02.10-21.59.45:213][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.02.10-21.59.45:213][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.02.10-21.59.45:223][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.02.10-21.59.45:232][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.02.10-21.59.45:240][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.02.10-21.59.45:249][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.02.10-21.59.45:257][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.02.10-21.59.45:265][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.02.10-21.59.45:274][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.02.10-21.59.45:297][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.02.10-21.59.45:297][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.02.10-21.59.45:312][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.02.10-21.59.45:312][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.02.10-21.59.45:320][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.02.10-21.59.45:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.02.10-21.59.45:337][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.02.10-21.59.45:345][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.02.10-21.59.45:346][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.02.10-21.59.45:353][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.02.10-21.59.45:412][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Intermediate/Shaders/WorkingDirectory/3656/).
+[2021.02.10-21.59.45:412][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/jonny/AppData/Local/Temp/UnrealShaderWorkingDir/408B08684223CB98661FF381ED4D39E4/'.
+[2021.02.10-21.59.45:413][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.02.10-21.59.45:413][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.02.10-21.59.45:413][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.02.10-21.59.46:038][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.02.10-21.59.46:083][  0]LogDerivedDataCache: Loaded boot cache 0.04s 75MB C:/Users/jonny/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.02.10-21.59.46:083][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/jonny/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2021.02.10-21.59.46:083][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.02.10-21.59.46:083][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.02.10-21.59.46:083][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.02.10-21.59.46:083][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.02.10-21.59.46:091][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.02.10-21.59.46:091][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.02.10-21.59.46:091][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.02.10-21.59.46:093][  0]LogDerivedDataCache: Using Local data cache path C:/Users/jonny/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.02.10-21.59.46:093][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.02.10-21.59.46:093][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.02.10-21.59.46:133][  0]LogSlate: Using FreeType 2.10.0
+[2021.02.10-21.59.46:133][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.02.10-21.59.46:157][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
+[2021.02.10-21.59.46:351][  0]LogInit: Selected Device Profile: [Windows]
+[2021.02.10-21.59.46:448][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.02.10-21.59.46:448][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.02.10-21.59.46:448][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.02.10-21.59.46:448][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.02.10-21.59.46:448][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.02.10-21.59.46:461][  0]LogNetVersion: MyProject 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 709303259)
+[2021.02.10-21.59.46:870][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (00000241A0D5D3C0), frame # 0
+[2021.02.10-21.59.46:870][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000241A0C9F740), frame # 0
+[2021.02.10-21.59.46:871][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000241A0D24800), frame # 0
+[2021.02.10-21.59.46:919][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.042786 seconds
+[2021.02.10-21.59.46:923][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2021.02.10-21.59.46:923][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2021.02.10-21.59.46:923][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.02.10-21.59.47:247][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.02.10-21.59.47:251][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.02.10-21.59.47:324][  0]SourceControl: Source control is disabled
+[2021.02.10-21.59.47:324][  0]SourceControl: Source control is disabled
+[2021.02.10-21.59.47:327][  0]SourceControl: Source control is disabled
+[2021.02.10-21.59.47:330][  0]SourceControl: Source control is disabled
+[2021.02.10-21.59.47:336][  0]SourceControl: Source control is disabled
+[2021.02.10-21.59.47:348][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.02.10-21.59.47:349][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.02.10-21.59.47:564][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.02.10-21.59.47:583][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.02.10-21.59.47:583][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.02.10-21.59.47:627][  0]LogOcInput: OculusInput pre-init called
+[2021.02.10-21.59.47:637][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.02.10-21.59.47:638][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.02.10-21.59.47:689][  0]LogEngine: Initializing Engine...
+[2021.02.10-21.59.47:691][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.02.10-21.59.47:691][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.02.10-21.59.47:691][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.02.10-21.59.47:788][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.02.10-21.59.47:795][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.02.10-21.59.47:795][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000241A3823C00), frame # 0
+[2021.02.10-21.59.47:795][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000241A385E980), frame # 0
+[2021.02.10-21.59.47:810][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.10-21.59.47:810][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.10-21.59.47:810][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.10-21.59.47:811][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.10-21.59.47:811][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.10-21.59.47:811][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.10-21.59.47:811][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.10-21.59.47:811][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.10-21.59.47:811][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.10-21.59.47:811][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.10-21.59.47:825][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.10-21.59.47:825][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.02.10-21.59.47:854][  0]LogAudioMixer: Display: Using Audio Device Speakers (3- USB PnP Audio Device)
+[2021.02.10-21.59.47:856][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.10-21.59.47:858][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.10-21.59.47:858][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.10-21.59.47:859][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.10-21.59.47:860][  0]LogInit: FAudioDevice initialized.
+[2021.02.10-21.59.47:860][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.02.10-21.59.48:027][  0]LogDerivedDataCache: Saved boot cache 0.17s 75MB C:/Users/jonny/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.02.10-21.59.48:028][  0]LogInit: Texture streaming: Enabled
+[2021.02.10-21.59.48:055][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.02.10-21.59.48:056][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.02.10-21.59.48:060][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.02.10-21.59.48:125][  0]LogInit: Transaction tracking system initialized
+[2021.02.10-21.59.48:145][  0]BlueprintLog: New page: Editor Load
+[2021.02.10-21.59.48:211][  0]LocalizationService: Localization service is disabled
+[2021.02.10-21.59.48:285][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.02.10-21.59.48:286][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.02.10-21.59.48:355][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.02.10-21.59.48:356][  0]LogCook: Display: Mobile HDR setting 0
+[2021.02.10-21.59.48:478][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jonny/Documents/Unreal Projects/MyProject/Content/' took 0.01s
+[2021.02.10-21.59.48:674][  0]SourceControl: Source control is disabled
+[2021.02.10-21.59.48:674][  0]LogUnrealEdMisc: Loading editor; pre map load, took 6.701
+[2021.02.10-21.59.48:674][  0]Cmd: MAP LOAD FILE="../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.02.10-21.59.48:675][  0]LightingResults: New page: Lighting Build
+[2021.02.10-21.59.48:676][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.02.10-21.59.48:676][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.10-21.59.48:676][  0]MapCheck: New page: Map Check
+[2021.02.10-21.59.48:676][  0]LightingResults: New page: Lighting Build
+[2021.02.10-21.59.48:683][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000241A3823C00), frame # 0
+[2021.02.10-21.59.48:683][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000241A385E980), frame # 0
+[2021.02.10-21.59.48:684][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.02.10-21.59.48:882][  0]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.02.10-21.59.48:882][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000241938AE600), frame # 0
+[2021.02.10-21.59.48:882][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000241A0103380), frame # 0
+[2021.02.10-21.59.48:884][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.02.10-21.59.48:896][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.02.10-21.59.48:897][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.02.10-21.59.48:897][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.188ms to complete.
+[2021.02.10-21.59.48:897][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.223
+[2021.02.10-21.59.48:899][  0]LogUnrealEdMisc: Total Editor Startup Time, took 6.926
+[2021.02.10-21.59.49:030][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.10-21.59.49:036][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.10-21.59.49:042][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.10-21.59.49:047][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.10-21.59.49:054][  0]LogCollectionManager: Loaded 0 collections in 0.001741 seconds
+[2021.02.10-21.59.49:066][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jonny/Documents/Unreal Projects/MyProject/Saved/Collections/' took 0.00s
+[2021.02.10-21.59.49:066][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jonny/Documents/Unreal Projects/MyProject/Content/Developers/jonny/Collections/' took 0.00s
+[2021.02.10-21.59.49:066][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jonny/Documents/Unreal Projects/MyProject/Content/Collections/' took 0.00s
+[2021.02.10-21.59.49:066][  0]LogContentBrowser: Native class hierarchy populated in 0.0073 seconds. Added 3427 classes and 821 folders.
+[2021.02.10-21.59.49:069][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.02.10-21.59.49:130][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.02.10-21.59.49:131][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.02.10-21.59.49:165][  0]LogSlate: Took 0.000240 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.02.10-21.59.49:166][  0]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.02.10-21.59.49:169][  0]LogSlate: Took 0.000212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.02.10-21.59.49:220][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2021.02.10-21.59.49:311][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.02.10-21.59.49:311][  0]LogLoad: (Engine Initialization) Total time: 7.34 seconds
+[2021.02.10-21.59.49:311][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.02.10-21.59.49:342][  0]LogAssetRegistry: Asset discovery search completed in 3.1865 seconds
+[2021.02.10-21.59.49:345][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2021.02.10-21.59.49:347][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.02.10-21.59.49:366][  0]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.02.10-21.59.52:525][371]LogSlate: Took 0.000218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.02.10-21.59.52:536][371]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Character/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2021.02.10-21.59.52:690][371]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 125 classes and 0 folders.
+[2021.02.10-21.59.53:412][371]LogSlate: Took 0.000229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.02.10-21.59.53:471][372]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.02.10-22.00.54:276][420]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2021.02.10-22.00.54:319][420]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2021.02.10-22.00.54:372][420]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.02.10-22.00.54:809][470]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/2DSideScrollerCharacter" FILE="../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Content/Character/2DSideScrollerCharacter.uasset" SILENT=true
+[2021.02.10-22.00.54:836][470]LogSavePackage: Moving '../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Saved/2DSideScrollerCharacter1C14B8754ABB5A90339B9985D75692C2.tmp' to '../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Content/Character/2DSideScrollerCharacter.uasset'
+[2021.02.10-22.00.54:850][470]AssetCheck: New page: Asset Save: 2DSideScrollerCharacter
+[2021.02.10-22.00.54:850][470]LogContentValidation: Display: Validating Blueprint /Game/Character/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2021.02.10-22.00.57:294][760]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2021.02.10-22.00.57:298][760]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2021.02.10-22.00.57:298][760]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.02.10-22.00.57:298][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.10-22.00.58:356][879]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.10-22.00.58:364][879]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.10-22.00.58:365][879]PIE: New page: PIE session: 2DSideScrollerExampleMap (Feb 10, 2021, 12:00:58 PM)
+[2021.02.10-22.00.58:366][879]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.02.10-22.00.58:366][879]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.02.10-22.00.58:367][879]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.02.10-22.00.58:369][879]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002244s)
+[2021.02.10-22.00.58:370][879]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.02.10-22.00.58:370][879]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000241AFCE8200), frame # 7879
+[2021.02.10-22.00.58:370][879]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000241E1270F40), frame # 7879
+[2021.02.10-22.00.58:370][879]LogPlayLevel: PIE: World Init took: (0.000894s)
+[2021.02.10-22.00.58:370][879]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003246s)
+[2021.02.10-22.00.58:387][879]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2021.02.10-22.00.58:389][879]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.10-22.00.58:389][879]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.10-22.00.58:389][879]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.10-22.00.58:389][879]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.10-22.00.58:389][879]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.10-22.00.58:389][879]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.10-22.00.58:389][879]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.10-22.00.58:389][879]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.10-22.00.58:389][879]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.10-22.00.58:389][879]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.10-22.00.58:394][879]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.10-22.00.58:394][879]LogAudioMixer: Display: 1: FrontRight
+[2021.02.10-22.00.58:406][879]LogAudioMixer: Display: Using Audio Device Speakers (3- USB PnP Audio Device)
+[2021.02.10-22.00.58:407][879]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.10-22.00.58:407][879]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.10-22.00.58:407][879]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.10-22.00.58:407][879]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.10-22.00.58:418][879]LogInit: FAudioDevice initialized.
+[2021.02.10-22.00.58:426][879]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.02.10-22.00.58:428][879]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2021.02.10-17.00.58
+[2021.02.10-22.00.58:428][879]LogWorld: Bringing up level for play took: 0.000655
+[2021.02.10-22.00.58:428][879]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2021.02.10-22.00.58:440][879]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.02.10-22.00.58:440][879]PIE: Server logged in
+[2021.02.10-22.00.58:441][879]PIE: Play in editor total start time 0.078 seconds.
+[2021.02.10-22.01.23:050][678]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.10-22.01.23:050][678]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.02.10-22.01.23:050][678]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.10-22.01.23:050][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.10-22.01.23:056][678]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.10-22.01.23:060][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.10-22.01.23:100][678]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.10-22.01.23:124][678]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000241E1270F40), frame # 10678
+[2021.02.10-22.01.23:124][678]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000241AFCE8200), frame # 10678
+[2021.02.10-22.01.23:129][678]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2021.02.10-22.01.23:154][679]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2021.02.10-22.01.50:954][993]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Character/Sprites/Jump.Jump
+[2021.02.10-22.01.51:153][993]LogRenderer: Reallocating scene render targets to support 1528x788 Format 10 NumSamples 1 (Frame:1).
+[2021.02.10-22.03.11:225][557]LogSlate: Window 'Jump' being destroyed
+[2021.02.10-22.03.11:230][557]LogSlate: Window 'Jump' being destroyed
+[2021.02.10-22.03.11:238][557]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.02.10-22.03.11:238][557]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.10-22.03.32:546][ 42]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Character/Sprites/Jump/Jump.Jump
+[2021.02.10-22.03.32:642][ 42]LogRenderer: Reallocating scene render targets to support 1528x804 Format 10 NumSamples 1 (Frame:1).
+[2021.02.10-22.05.58:250][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Sprites/Jump/Jump" FILE="../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Content/Character/Sprites/Jump/Jump.uasset" SILENT=true
+[2021.02.10-22.05.58:257][586]LogSavePackage: Moving '../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Saved/Jump6030D4C64DCAB4A2417F59A4BDCA5452.tmp' to '../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Content/Character/Sprites/Jump/Jump.uasset'
+[2021.02.10-22.05.58:271][586]AssetCheck: New page: Asset Save: Jump
+[2021.02.10-22.05.58:271][586]LogContentValidation: Display: Validating PaperFlipbook /Game/Character/Sprites/Jump/Jump.Jump
+[2021.02.10-22.05.59:634][746]LogSlate: Window 'Jump' being destroyed
+[2021.02.10-22.05.59:638][746]LogSlate: Window 'Jump' being destroyed
+[2021.02.10-22.05.59:645][746]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.02.10-22.05.59:645][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.10-22.06.06:939][594]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2021.02.10-22.06.08:903][594]LogSlate: Window 'Delete Assets' being destroyed
+[2021.02.10-22.06.10:223][594]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Character/Sprites/Jump.Jump
+[2021.02.10-22.06.11:618][594]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2021.02.10-22.06.11:632][594]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2021.02.10-22.06.11:644][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.02.10-22.06.22:243][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Sprites/Jump" FILE="../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Content/Character/Sprites/Jump.uasset" SILENT=true
+[2021.02.10-22.06.22:247][828]LogSavePackage: Moving '../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Saved/JumpFE3E8213407D27E1317C26B5817B9C15.tmp' to '../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Content/Character/Sprites/Jump.uasset'
+[2021.02.10-22.06.22:354][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2021.02.10-22.06.22:374][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.02.10-22.06.22:386][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.02.10-22.06.22:406][828]AssetCheck: New page: Asset Save: Jump
+[2021.02.10-22.06.22:406][828]LogContentValidation: Display: Validating PaperFlipbook /Game/Character/Sprites/Jump.Jump
+[2021.02.10-22.06.26:134][256]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Character/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2021.02.10-22.06.37:085][417]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2021.02.10-22.06.37:129][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.02.10-22.06.37:505][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/2DSideScrollerCharacter" FILE="../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Content/Character/2DSideScrollerCharacter.uasset" SILENT=true
+[2021.02.10-22.06.37:530][450]LogSavePackage: Moving '../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Saved/2DSideScrollerCharacterE54C38014474AA0060707CBB2049C224.tmp' to '../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Content/Character/2DSideScrollerCharacter.uasset'
+[2021.02.10-22.06.37:540][450]AssetCheck: New page: Asset Save: 2DSideScrollerCharacter
+[2021.02.10-22.06.37:540][450]LogContentValidation: Display: Validating Blueprint /Game/Character/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2021.02.10-22.06.38:651][561]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2021.02.10-22.06.38:655][561]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2021.02.10-22.06.38:655][561]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.02.10-22.06.38:655][561]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.10-22.06.39:705][679]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.10-22.06.39:712][679]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.10-22.06.39:713][679]PIE: New page: PIE session: 2DSideScrollerExampleMap (Feb 10, 2021, 12:06:39 PM)
+[2021.02.10-22.06.39:713][679]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.02.10-22.06.39:715][679]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001997s)
+[2021.02.10-22.06.39:715][679]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.02.10-22.06.39:715][679]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000024209AA0C00), frame # 46679
+[2021.02.10-22.06.39:715][679]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000242181E8900), frame # 46679
+[2021.02.10-22.06.39:715][679]LogPlayLevel: PIE: World Init took: (0.000816s)
+[2021.02.10-22.06.39:715][679]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.002899s)
+[2021.02.10-22.06.39:732][679]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2021.02.10-22.06.39:734][679]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.10-22.06.39:734][679]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.10-22.06.39:734][679]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.10-22.06.39:734][679]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.10-22.06.39:734][679]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.10-22.06.39:734][679]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.10-22.06.39:734][679]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.10-22.06.39:734][679]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.10-22.06.39:734][679]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.10-22.06.39:734][679]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.10-22.06.39:739][679]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.10-22.06.39:739][679]LogAudioMixer: Display: 1: FrontRight
+[2021.02.10-22.06.39:753][679]LogAudioMixer: Display: Using Audio Device Speakers (3- USB PnP Audio Device)
+[2021.02.10-22.06.39:753][679]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.10-22.06.39:753][679]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.10-22.06.39:753][679]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.10-22.06.39:753][679]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.10-22.06.39:764][679]LogInit: FAudioDevice initialized.
+[2021.02.10-22.06.39:768][679]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.02.10-22.06.39:770][679]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2021.02.10-17.06.39
+[2021.02.10-22.06.39:770][679]LogWorld: Bringing up level for play took: 0.000678
+[2021.02.10-22.06.39:770][679]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.02.10-22.06.39:772][679]PIE: Server logged in
+[2021.02.10-22.06.39:773][679]PIE: Play in editor total start time 0.061 seconds.
+[2021.02.10-22.09.40:880][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.10-22.09.40:880][401]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.02.10-22.09.40:880][401]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.10-22.09.40:880][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.10-22.09.40:891][401]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.10-22.09.40:894][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.10-22.09.40:921][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.10-22.09.40:922][401]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000242181E8900), frame # 68401
+[2021.02.10-22.09.40:922][401]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000024209AA0C00), frame # 68401
+[2021.02.10-22.09.40:924][401]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2021.02.10-22.09.40:952][403]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.02.10-22.11.13:254][382]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/Maps/Nature/Nature.Nature
+[2021.02.10-22.11.13:396][382]LogRenderer: Reallocating scene render targets to support 1528x920 Format 10 NumSamples 1 (Frame:1).
+[2021.02.10-22.11.23:086][539]LogSlate: Window 'Nature*' being destroyed
+[2021.02.10-22.11.23:092][539]LogSlate: Window 'Nature*' being destroyed
+[2021.02.10-22.11.23:119][539]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.02.10-22.11.23:119][539]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.10-22.11.31:559][539]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/Maps/Nature/NatureSet.NatureSet
+[2021.02.10-22.12.30:917][446]LogSlate: Window 'NatureSet' being destroyed
+[2021.02.10-22.12.30:923][446]LogSlate: Window 'NatureSet' being destroyed
+[2021.02.10-22.12.30:959][446]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.02.10-22.12.30:959][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.10-22.12.40:428][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.02.10-22.12.41:392][546]LogSlate: Window 'Delete Assets' being destroyed
+[2021.02.10-22.12.41:447][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2021.02.10-22.13.15:515][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2021.02.10-22.13.15:531][780]LogSavePackage: Moving '../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Saved/2DSideScrollerExampleMap_Auto17255825B4AC39A997A3624B25A7FB4FE.tmp' to '../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto1.umap'
+[2021.02.10-22.13.15:534][780]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.034
+[2021.02.10-22.13.15:534][780]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.034
+[2021.02.10-22.13.15:535][780]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Nature/Nature] ([1] browsable assets)...
+[2021.02.10-22.13.15:535][780]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Nature/Nature]
+[2021.02.10-22.13.15:537][780]LogSavePackage: Moving '../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Saved/Nature_Auto1359387174ABC3AAB67006AAE7686601E.tmp' to '../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Maps/Nature/Nature_Auto1.uasset'
+[2021.02.10-22.13.15:537][780]LogFileHelpers: Auto-saving content packages took 0.003
+[2021.02.10-22.13.25:178][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/Layer-0.png)
+[2021.02.10-22.13.25:180][599]LogTexture: Display: Building textures: Layer-0 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:206][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile10.png)
+[2021.02.10-22.13.25:207][599]LogTexture: Display: Building textures: tile10 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:211][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile100.png)
+[2021.02.10-22.13.25:212][599]LogTexture: Display: Building textures: tile100 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:217][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile101.png)
+[2021.02.10-22.13.25:218][599]LogTexture: Display: Building textures: tile101 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:222][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile102.png)
+[2021.02.10-22.13.25:223][599]LogTexture: Display: Building textures: tile102 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:227][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile103.png)
+[2021.02.10-22.13.25:228][599]LogTexture: Display: Building textures: tile103 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:232][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile104.png)
+[2021.02.10-22.13.25:233][599]LogTexture: Display: Building textures: tile104 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:237][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile105.png)
+[2021.02.10-22.13.25:238][599]LogTexture: Display: Building textures: tile105 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:242][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile106.png)
+[2021.02.10-22.13.25:243][599]LogTexture: Display: Building textures: tile106 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:246][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile107.png)
+[2021.02.10-22.13.25:248][599]LogTexture: Display: Building textures: tile107 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:251][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile108.png)
+[2021.02.10-22.13.25:252][599]LogTexture: Display: Building textures: tile108 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:256][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile109.png)
+[2021.02.10-22.13.25:257][599]LogTexture: Display: Building textures: tile109 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:260][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile11.png)
+[2021.02.10-22.13.25:262][599]LogTexture: Display: Building textures: tile11 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:265][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile110.png)
+[2021.02.10-22.13.25:266][599]LogTexture: Display: Building textures: tile110 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:270][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile111.png)
+[2021.02.10-22.13.25:271][599]LogTexture: Display: Building textures: tile111 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:276][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile112.png)
+[2021.02.10-22.13.25:277][599]LogTexture: Display: Building textures: tile112 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:281][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile113.png)
+[2021.02.10-22.13.25:283][599]LogTexture: Display: Building textures: tile113 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:287][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile114.png)
+[2021.02.10-22.13.25:288][599]LogTexture: Display: Building textures: tile114 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:291][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile115.png)
+[2021.02.10-22.13.25:292][599]LogTexture: Display: Building textures: tile115 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:295][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile116.png)
+[2021.02.10-22.13.25:297][599]LogTexture: Display: Building textures: tile116 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:301][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile117.png)
+[2021.02.10-22.13.25:303][599]LogTexture: Display: Building textures: tile117 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:305][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile118.png)
+[2021.02.10-22.13.25:307][599]LogTexture: Display: Building textures: tile118 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:310][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile119.png)
+[2021.02.10-22.13.25:311][599]LogTexture: Display: Building textures: tile119 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:314][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile12.png)
+[2021.02.10-22.13.25:320][599]LogTexture: Display: Building textures: tile12 (BC5, 48X48)
+[2021.02.10-22.13.25:322][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile120.png)
+[2021.02.10-22.13.25:323][599]LogTexture: Display: Building textures: tile120 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:326][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile121.png)
+[2021.02.10-22.13.25:327][599]LogTexture: Display: Building textures: tile121 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:330][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile122.png)
+[2021.02.10-22.13.25:332][599]LogTexture: Display: Building textures: tile122 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:335][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile123.png)
+[2021.02.10-22.13.25:336][599]LogTexture: Display: Building textures: tile123 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:339][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile124.png)
+[2021.02.10-22.13.25:340][599]LogTexture: Display: Building textures: tile124 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:344][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile125.png)
+[2021.02.10-22.13.25:345][599]LogTexture: Display: Building textures: tile125 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:349][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile126.png)
+[2021.02.10-22.13.25:351][599]LogTexture: Display: Building textures: tile126 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:354][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile127.png)
+[2021.02.10-22.13.25:355][599]LogTexture: Display: Building textures: tile127 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:358][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile128.png)
+[2021.02.10-22.13.25:359][599]LogTexture: Display: Building textures: tile128 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:362][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile13.png)
+[2021.02.10-22.13.25:367][599]LogTexture: Display: Building textures: tile13 (BC5, 48X48)
+[2021.02.10-22.13.25:369][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile14.png)
+[2021.02.10-22.13.25:370][599]LogTexture: Display: Building textures: tile14 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:373][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile15.png)
+[2021.02.10-22.13.25:375][599]LogTexture: Display: Building textures: tile15 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:409][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile16.png)
+[2021.02.10-22.13.25:411][599]LogTexture: Display: Building textures: tile16 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:415][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile17.png)
+[2021.02.10-22.13.25:417][599]LogTexture: Display: Building textures: tile17 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:420][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile18.png)
+[2021.02.10-22.13.25:421][599]LogTexture: Display: Building textures: tile18 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:426][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile19.png)
+[2021.02.10-22.13.25:427][599]LogTexture: Display: Building textures: tile19 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:431][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile2.png)
+[2021.02.10-22.13.25:432][599]LogTexture: Display: Building textures: tile2 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:436][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile20.png)
+[2021.02.10-22.13.25:437][599]LogTexture: Display: Building textures: tile20 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:440][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile21.png)
+[2021.02.10-22.13.25:442][599]LogTexture: Display: Building textures: tile21 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:445][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile22.png)
+[2021.02.10-22.13.25:447][599]LogTexture: Display: Building textures: tile22 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:506][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile23.png)
+[2021.02.10-22.13.25:508][599]LogTexture: Display: Building textures: tile23 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:512][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile24.png)
+[2021.02.10-22.13.25:514][599]LogTexture: Display: Building textures: tile24 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:518][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile25.png)
+[2021.02.10-22.13.25:520][599]LogTexture: Display: Building textures: tile25 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:524][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile26.png)
+[2021.02.10-22.13.25:526][599]LogTexture: Display: Building textures: tile26 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:530][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile27.png)
+[2021.02.10-22.13.25:531][599]LogTexture: Display: Building textures: tile27 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:535][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile28.png)
+[2021.02.10-22.13.25:536][599]LogTexture: Display: Building textures: tile28 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:540][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile29.png)
+[2021.02.10-22.13.25:541][599]LogTexture: Display: Building textures: tile29 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:545][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile3.png)
+[2021.02.10-22.13.25:546][599]LogTexture: Display: Building textures: tile3 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:550][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile30.png)
+[2021.02.10-22.13.25:551][599]LogTexture: Display: Building textures: tile30 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:555][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile31.png)
+[2021.02.10-22.13.25:557][599]LogTexture: Display: Building textures: tile31 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:561][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile32.png)
+[2021.02.10-22.13.25:562][599]LogTexture: Display: Building textures: tile32 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:565][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile33.png)
+[2021.02.10-22.13.25:571][599]LogTexture: Display: Building textures: tile33 (BC5, 48X48)
+[2021.02.10-22.13.25:573][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile34.png)
+[2021.02.10-22.13.25:578][599]LogTexture: Display: Building textures: tile34 (BC5, 48X48)
+[2021.02.10-22.13.25:644][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile35.png)
+[2021.02.10-22.13.25:649][599]LogTexture: Display: Building textures: tile35 (BC5, 48X48)
+[2021.02.10-22.13.25:651][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile36.png)
+[2021.02.10-22.13.25:656][599]LogTexture: Display: Building textures: tile36 (BC5, 48X48)
+[2021.02.10-22.13.25:659][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile37.png)
+[2021.02.10-22.13.25:660][599]LogTexture: Display: Building textures: tile37 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:663][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile38.png)
+[2021.02.10-22.13.25:669][599]LogTexture: Display: Building textures: tile38 (BC5, 48X48)
+[2021.02.10-22.13.25:671][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile39.png)
+[2021.02.10-22.13.25:672][599]LogTexture: Display: Building textures: tile39 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:675][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile4.png)
+[2021.02.10-22.13.25:677][599]LogTexture: Display: Building textures: tile4 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:680][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile40.png)
+[2021.02.10-22.13.25:682][599]LogTexture: Display: Building textures: tile40 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:685][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile41.png)
+[2021.02.10-22.13.25:686][599]LogTexture: Display: Building textures: tile41 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:689][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile42.png)
+[2021.02.10-22.13.25:690][599]LogTexture: Display: Building textures: tile42 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:693][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile43.png)
+[2021.02.10-22.13.25:694][599]LogTexture: Display: Building textures: tile43 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:697][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile44.png)
+[2021.02.10-22.13.25:698][599]LogTexture: Display: Building textures: tile44 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:701][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile45.png)
+[2021.02.10-22.13.25:703][599]LogTexture: Display: Building textures: tile45 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:705][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile46.png)
+[2021.02.10-22.13.25:707][599]LogTexture: Display: Building textures: tile46 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:710][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile47.png)
+[2021.02.10-22.13.25:711][599]LogTexture: Display: Building textures: tile47 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:714][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile48.png)
+[2021.02.10-22.13.25:715][599]LogTexture: Display: Building textures: tile48 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:719][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile49.png)
+[2021.02.10-22.13.25:720][599]LogTexture: Display: Building textures: tile49 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:723][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile5.png)
+[2021.02.10-22.13.25:725][599]LogTexture: Display: Building textures: tile5 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:753][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile50.png)
+[2021.02.10-22.13.25:754][599]LogTexture: Display: Building textures: tile50 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:757][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile51.png)
+[2021.02.10-22.13.25:758][599]LogTexture: Display: Building textures: tile51 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:761][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile52.png)
+[2021.02.10-22.13.25:763][599]LogTexture: Display: Building textures: tile52 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:765][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile53.png)
+[2021.02.10-22.13.25:767][599]LogTexture: Display: Building textures: tile53 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:771][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile54.png)
+[2021.02.10-22.13.25:776][599]LogTexture: Display: Building textures: tile54 (BC5, 48X48)
+[2021.02.10-22.13.25:778][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile55.png)
+[2021.02.10-22.13.25:779][599]LogTexture: Display: Building textures: tile55 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:896][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile56.png)
+[2021.02.10-22.13.25:901][599]LogTexture: Display: Building textures: tile56 (BC5, 48X48)
+[2021.02.10-22.13.25:904][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile57.png)
+[2021.02.10-22.13.25:909][599]LogTexture: Display: Building textures: tile57 (BC5, 48X48)
+[2021.02.10-22.13.25:911][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile58.png)
+[2021.02.10-22.13.25:916][599]LogTexture: Display: Building textures: tile58 (BC5, 48X48)
+[2021.02.10-22.13.25:918][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile59.png)
+[2021.02.10-22.13.25:923][599]LogTexture: Display: Building textures: tile59 (BC5, 48X48)
+[2021.02.10-22.13.25:926][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile6.png)
+[2021.02.10-22.13.25:927][599]LogTexture: Display: Building textures: tile6 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:931][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile60.png)
+[2021.02.10-22.13.25:932][599]LogTexture: Display: Building textures: tile60 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:935][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile61.png)
+[2021.02.10-22.13.25:936][599]LogTexture: Display: Building textures: tile61 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:940][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile62.png)
+[2021.02.10-22.13.25:941][599]LogTexture: Display: Building textures: tile62 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:944][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile63.png)
+[2021.02.10-22.13.25:945][599]LogTexture: Display: Building textures: tile63 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:949][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile64.png)
+[2021.02.10-22.13.25:951][599]LogTexture: Display: Building textures: tile64 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:955][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile65.png)
+[2021.02.10-22.13.25:956][599]LogTexture: Display: Building textures: tile65 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:961][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile66.png)
+[2021.02.10-22.13.25:963][599]LogTexture: Display: Building textures: tile66 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:967][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile67.png)
+[2021.02.10-22.13.25:968][599]LogTexture: Display: Building textures: tile67 (AutoDXT, 48X48)
+[2021.02.10-22.13.25:977][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile68.png)
+[2021.02.10-22.13.25:979][599]LogTexture: Display: Building textures: tile68 (AutoDXT, 48X48)
+[2021.02.10-22.13.26:125][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile69.png)
+[2021.02.10-22.13.26:127][599]LogTexture: Display: Building textures: tile69 (AutoDXT, 48X48)
+[2021.02.10-22.13.26:131][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile7.png)
+[2021.02.10-22.13.26:133][599]LogTexture: Display: Building textures: tile7 (AutoDXT, 48X48)
+[2021.02.10-22.13.26:137][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile70.png)
+[2021.02.10-22.13.26:138][599]LogTexture: Display: Building textures: tile70 (AutoDXT, 48X48)
+[2021.02.10-22.13.26:143][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile71.png)
+[2021.02.10-22.13.26:144][599]LogTexture: Display: Building textures: tile71 (AutoDXT, 48X48)
+[2021.02.10-22.13.26:149][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile72.png)
+[2021.02.10-22.13.26:150][599]LogTexture: Display: Building textures: tile72 (AutoDXT, 48X48)
+[2021.02.10-22.13.26:153][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile73.png)
+[2021.02.10-22.13.26:154][599]LogTexture: Display: Building textures: tile73 (AutoDXT, 48X48)
+[2021.02.10-22.13.26:157][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile74.png)
+[2021.02.10-22.13.26:159][599]LogTexture: Display: Building textures: tile74 (AutoDXT, 48X48)
+[2021.02.10-22.13.26:163][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile75.png)
+[2021.02.10-22.13.26:164][599]LogTexture: Display: Building textures: tile75 (AutoDXT, 48X48)
+[2021.02.10-22.13.26:168][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile76.png)
+[2021.02.10-22.13.26:170][599]LogTexture: Display: Building textures: tile76 (AutoDXT, 48X48)
+[2021.02.10-22.13.26:172][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile77.png)
+[2021.02.10-22.13.26:174][599]LogTexture: Display: Building textures: tile77 (AutoDXT, 48X48)
+[2021.02.10-22.13.26:177][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile78.png)
+[2021.02.10-22.13.26:178][599]LogTexture: Display: Building textures: tile78 (AutoDXT, 48X48)
+[2021.02.10-22.13.26:307][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile79.png)
+[2021.02.10-22.13.26:308][599]LogTexture: Display: Building textures: tile79 (AutoDXT, 48X48)
+[2021.02.10-22.13.26:311][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile8.png)
+[2021.02.10-22.13.26:313][599]LogTexture: Display: Building textures: tile8 (AutoDXT, 48X48)
+[2021.02.10-22.13.26:317][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile80.png)
+[2021.02.10-22.13.26:318][599]LogTexture: Display: Building textures: tile80 (AutoDXT, 48X48)
+[2021.02.10-22.13.26:321][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile81.png)
+[2021.02.10-22.13.26:323][599]LogTexture: Display: Building textures: tile81 (AutoDXT, 48X48)
+[2021.02.10-22.13.26:326][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile82.png)
+[2021.02.10-22.13.26:327][599]LogTexture: Display: Building textures: tile82 (AutoDXT, 48X48)
+[2021.02.10-22.13.26:330][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile83.png)
+[2021.02.10-22.13.26:331][599]LogTexture: Display: Building textures: tile83 (AutoDXT, 48X48)
+[2021.02.10-22.13.26:335][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile84.png)
+[2021.02.10-22.13.26:337][599]LogTexture: Display: Building textures: tile84 (AutoDXT, 48X48)
+[2021.02.10-22.13.26:340][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile85.png)
+[2021.02.10-22.13.26:341][599]LogTexture: Display: Building textures: tile85 (AutoDXT, 48X48)
+[2021.02.10-22.13.26:344][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile86.png)
+[2021.02.10-22.13.26:345][599]LogTexture: Display: Building textures: tile86 (AutoDXT, 48X48)
+[2021.02.10-22.13.26:349][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile87.png)
+[2021.02.10-22.13.26:350][599]LogTexture: Display: Building textures: tile87 (AutoDXT, 48X48)
+[2021.02.10-22.13.26:353][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile88.png)
+[2021.02.10-22.13.26:355][599]LogTexture: Display: Building textures: tile88 (AutoDXT, 48X48)
+[2021.02.10-22.13.26:357][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile89.png)
+[2021.02.10-22.13.26:359][599]LogTexture: Display: Building textures: tile89 (AutoDXT, 48X48)
+[2021.02.10-22.13.26:362][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile9.png)
+[2021.02.10-22.13.26:364][599]LogTexture: Display: Building textures: tile9 (AutoDXT, 48X48)
+[2021.02.10-22.13.26:367][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile90.png)
+[2021.02.10-22.13.26:368][599]LogTexture: Display: Building textures: tile90 (AutoDXT, 48X48)
+[2021.02.10-22.13.26:371][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile91.png)
+[2021.02.10-22.13.26:372][599]LogTexture: Display: Building textures: tile91 (AutoDXT, 48X48)
+[2021.02.10-22.13.26:375][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile92.png)
+[2021.02.10-22.13.26:376][599]LogTexture: Display: Building textures: tile92 (AutoDXT, 48X48)
+[2021.02.10-22.13.26:380][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile93.png)
+[2021.02.10-22.13.26:382][599]LogTexture: Display: Building textures: tile93 (AutoDXT, 48X48)
+[2021.02.10-22.13.26:446][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile94.png)
+[2021.02.10-22.13.26:447][599]LogTexture: Display: Building textures: tile94 (AutoDXT, 48X48)
+[2021.02.10-22.13.26:451][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile95.png)
+[2021.02.10-22.13.26:452][599]LogTexture: Display: Building textures: tile95 (AutoDXT, 48X48)
+[2021.02.10-22.13.26:455][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile96.png)
+[2021.02.10-22.13.26:456][599]LogTexture: Display: Building textures: tile96 (AutoDXT, 48X48)
+[2021.02.10-22.13.26:461][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile97.png)
+[2021.02.10-22.13.26:462][599]LogTexture: Display: Building textures: tile97 (AutoDXT, 48X48)
+[2021.02.10-22.13.26:467][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile98.png)
+[2021.02.10-22.13.26:469][599]LogTexture: Display: Building textures: tile98 (AutoDXT, 48X48)
+[2021.02.10-22.13.26:472][599]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles/tile99.png)
+[2021.02.10-22.13.26:473][599]LogTexture: Display: Building textures: tile99 (AutoDXT, 48X48)
+[2021.02.10-22.13.47:047][544]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/Maps/Nature/Nature.Nature
+[2021.02.10-22.13.54:451][403]LogSlate: Window 'Nature*' being destroyed
+[2021.02.10-22.13.54:456][403]LogSlate: Window 'Nature*' being destroyed
+[2021.02.10-22.13.54:463][403]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.02.10-22.13.54:463][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.10-22.14.05:847][757]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/Maps/Nature/NatureSet.NatureSet
+[2021.02.10-22.14.17:407][113]LogSlate: Window 'NatureSet' being destroyed
+[2021.02.10-22.14.17:413][113]LogSlate: Window 'NatureSet' being destroyed
+[2021.02.10-22.14.17:449][113]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.02.10-22.14.17:449][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.10-22.14.28:034][ 70]LogTexture: Display: Building textures: Layer-0 (BGRA8, 48X48)
+[2021.02.10-22.14.28:035][ 70]LogTexture: Display: Building textures: tile10 (BGRA8, 48X48)
+[2021.02.10-22.14.28:036][ 70]LogTexture: Display: Building textures: tile100 (BGRA8, 48X48)
+[2021.02.10-22.14.28:036][ 70]LogTexture: Display: Building textures: tile101 (BGRA8, 48X48)
+[2021.02.10-22.14.28:037][ 70]LogTexture: Display: Building textures: tile102 (BGRA8, 48X48)
+[2021.02.10-22.14.28:038][ 70]LogTexture: Display: Building textures: tile103 (BGRA8, 48X48)
+[2021.02.10-22.14.28:039][ 70]LogTexture: Display: Building textures: tile104 (BGRA8, 48X48)
+[2021.02.10-22.14.28:040][ 70]LogTexture: Display: Building textures: tile105 (BGRA8, 48X48)
+[2021.02.10-22.14.28:040][ 70]LogTexture: Display: Building textures: tile106 (BGRA8, 48X48)
+[2021.02.10-22.14.28:041][ 70]LogTexture: Display: Building textures: tile107 (BGRA8, 48X48)
+[2021.02.10-22.14.28:042][ 70]LogTexture: Display: Building textures: tile108 (BGRA8, 48X48)
+[2021.02.10-22.14.28:042][ 70]LogTexture: Display: Building textures: tile109 (BGRA8, 48X48)
+[2021.02.10-22.14.28:043][ 70]LogTexture: Display: Building textures: tile11 (BGRA8, 48X48)
+[2021.02.10-22.14.28:044][ 70]LogTexture: Display: Building textures: tile110 (BGRA8, 48X48)
+[2021.02.10-22.14.28:044][ 70]LogTexture: Display: Building textures: tile111 (BGRA8, 48X48)
+[2021.02.10-22.14.28:045][ 70]LogTexture: Display: Building textures: tile112 (BGRA8, 48X48)
+[2021.02.10-22.14.28:045][ 70]LogTexture: Display: Building textures: tile113 (BGRA8, 48X48)
+[2021.02.10-22.14.28:046][ 70]LogTexture: Display: Building textures: tile114 (BGRA8, 48X48)
+[2021.02.10-22.14.28:072][ 70]LogTexture: Display: Building textures: tile115 (BGRA8, 48X48)
+[2021.02.10-22.14.28:073][ 70]LogTexture: Display: Building textures: tile116 (BGRA8, 48X48)
+[2021.02.10-22.14.28:074][ 70]LogTexture: Display: Building textures: tile117 (BGRA8, 48X48)
+[2021.02.10-22.14.28:075][ 70]LogTexture: Display: Building textures: tile118 (BGRA8, 48X48)
+[2021.02.10-22.14.28:076][ 70]LogTexture: Display: Building textures: tile119 (BGRA8, 48X48)
+[2021.02.10-22.14.28:077][ 70]LogTexture: Display: Building textures: tile120 (BGRA8, 48X48)
+[2021.02.10-22.14.28:077][ 70]LogTexture: Display: Building textures: tile121 (BGRA8, 48X48)
+[2021.02.10-22.14.28:078][ 70]LogTexture: Display: Building textures: tile122 (BGRA8, 48X48)
+[2021.02.10-22.14.28:079][ 70]LogTexture: Display: Building textures: tile123 (BGRA8, 48X48)
+[2021.02.10-22.14.28:080][ 70]LogTexture: Display: Building textures: tile124 (BGRA8, 48X48)
+[2021.02.10-22.14.28:081][ 70]LogTexture: Display: Building textures: tile125 (BGRA8, 48X48)
+[2021.02.10-22.14.28:081][ 70]LogTexture: Display: Building textures: tile126 (BGRA8, 48X48)
+[2021.02.10-22.14.28:082][ 70]LogTexture: Display: Building textures: tile127 (BGRA8, 48X48)
+[2021.02.10-22.14.28:083][ 70]LogTexture: Display: Building textures: tile128 (BGRA8, 48X48)
+[2021.02.10-22.14.28:084][ 70]LogTexture: Display: Building textures: tile14 (BGRA8, 48X48)
+[2021.02.10-22.14.28:084][ 70]LogTexture: Display: Building textures: tile15 (BGRA8, 48X48)
+[2021.02.10-22.14.28:085][ 70]LogTexture: Display: Building textures: tile16 (BGRA8, 48X48)
+[2021.02.10-22.14.28:086][ 70]LogTexture: Display: Building textures: tile17 (BGRA8, 48X48)
+[2021.02.10-22.14.28:087][ 70]LogTexture: Display: Building textures: tile18 (BGRA8, 48X48)
+[2021.02.10-22.14.28:087][ 70]LogTexture: Display: Building textures: tile19 (BGRA8, 48X48)
+[2021.02.10-22.14.28:088][ 70]LogTexture: Display: Building textures: tile2 (BGRA8, 48X48)
+[2021.02.10-22.14.28:089][ 70]LogTexture: Display: Building textures: tile20 (BGRA8, 48X48)
+[2021.02.10-22.14.28:090][ 70]LogTexture: Display: Building textures: tile21 (BGRA8, 48X48)
+[2021.02.10-22.14.28:090][ 70]LogTexture: Display: Building textures: tile22 (BGRA8, 48X48)
+[2021.02.10-22.14.28:091][ 70]LogTexture: Display: Building textures: tile23 (BGRA8, 48X48)
+[2021.02.10-22.14.28:092][ 70]LogTexture: Display: Building textures: tile24 (BGRA8, 48X48)
+[2021.02.10-22.14.28:093][ 70]LogTexture: Display: Building textures: tile25 (BGRA8, 48X48)
+[2021.02.10-22.14.28:093][ 70]LogTexture: Display: Building textures: tile26 (BGRA8, 48X48)
+[2021.02.10-22.14.28:094][ 70]LogTexture: Display: Building textures: tile27 (BGRA8, 48X48)
+[2021.02.10-22.14.28:095][ 70]LogTexture: Display: Building textures: tile28 (BGRA8, 48X48)
+[2021.02.10-22.14.28:096][ 70]LogTexture: Display: Building textures: tile29 (BGRA8, 48X48)
+[2021.02.10-22.14.28:097][ 70]LogTexture: Display: Building textures: tile3 (BGRA8, 48X48)
+[2021.02.10-22.14.28:097][ 70]LogTexture: Display: Building textures: tile30 (BGRA8, 48X48)
+[2021.02.10-22.14.28:098][ 70]LogTexture: Display: Building textures: tile31 (BGRA8, 48X48)
+[2021.02.10-22.14.28:098][ 70]LogTexture: Display: Building textures: tile32 (BGRA8, 48X48)
+[2021.02.10-22.14.28:099][ 70]LogTexture: Display: Building textures: tile37 (BGRA8, 48X48)
+[2021.02.10-22.14.28:100][ 70]LogTexture: Display: Building textures: tile39 (BGRA8, 48X48)
+[2021.02.10-22.14.28:101][ 70]LogTexture: Display: Building textures: tile4 (BGRA8, 48X48)
+[2021.02.10-22.14.28:101][ 70]LogTexture: Display: Building textures: tile40 (BGRA8, 48X48)
+[2021.02.10-22.14.28:102][ 70]LogTexture: Display: Building textures: tile41 (BGRA8, 48X48)
+[2021.02.10-22.14.28:103][ 70]LogTexture: Display: Building textures: tile42 (BGRA8, 48X48)
+[2021.02.10-22.14.28:103][ 70]LogTexture: Display: Building textures: tile43 (BGRA8, 48X48)
+[2021.02.10-22.14.28:104][ 70]LogTexture: Display: Building textures: tile44 (BGRA8, 48X48)
+[2021.02.10-22.14.28:105][ 70]LogTexture: Display: Building textures: tile45 (BGRA8, 48X48)
+[2021.02.10-22.14.28:105][ 70]LogTexture: Display: Building textures: tile46 (BGRA8, 48X48)
+[2021.02.10-22.14.28:106][ 70]LogTexture: Display: Building textures: tile47 (BGRA8, 48X48)
+[2021.02.10-22.14.28:107][ 70]LogTexture: Display: Building textures: tile48 (BGRA8, 48X48)
+[2021.02.10-22.14.28:108][ 70]LogTexture: Display: Building textures: tile49 (BGRA8, 48X48)
+[2021.02.10-22.14.28:109][ 70]LogTexture: Display: Building textures: tile5 (BGRA8, 48X48)
+[2021.02.10-22.14.28:109][ 70]LogTexture: Display: Building textures: tile50 (BGRA8, 48X48)
+[2021.02.10-22.14.28:110][ 70]LogTexture: Display: Building textures: tile51 (BGRA8, 48X48)
+[2021.02.10-22.14.28:111][ 70]LogTexture: Display: Building textures: tile52 (BGRA8, 48X48)
+[2021.02.10-22.14.28:111][ 70]LogTexture: Display: Building textures: tile53 (BGRA8, 48X48)
+[2021.02.10-22.14.28:112][ 70]LogTexture: Display: Building textures: tile55 (BGRA8, 48X48)
+[2021.02.10-22.14.28:113][ 70]LogTexture: Display: Building textures: tile6 (BGRA8, 48X48)
+[2021.02.10-22.14.28:114][ 70]LogTexture: Display: Building textures: tile60 (BGRA8, 48X48)
+[2021.02.10-22.14.28:115][ 70]LogTexture: Display: Building textures: tile61 (BGRA8, 48X48)
+[2021.02.10-22.14.28:115][ 70]LogTexture: Display: Building textures: tile62 (BGRA8, 48X48)
+[2021.02.10-22.14.28:116][ 70]LogTexture: Display: Building textures: tile63 (BGRA8, 48X48)
+[2021.02.10-22.14.28:117][ 70]LogTexture: Display: Building textures: tile64 (BGRA8, 48X48)
+[2021.02.10-22.14.28:117][ 70]LogTexture: Display: Building textures: tile65 (BGRA8, 48X48)
+[2021.02.10-22.14.28:118][ 70]LogTexture: Display: Building textures: tile66 (BGRA8, 48X48)
+[2021.02.10-22.14.28:119][ 70]LogTexture: Display: Building textures: tile67 (BGRA8, 48X48)
+[2021.02.10-22.14.28:120][ 70]LogTexture: Display: Building textures: tile68 (BGRA8, 48X48)
+[2021.02.10-22.14.28:120][ 70]LogTexture: Display: Building textures: tile69 (BGRA8, 48X48)
+[2021.02.10-22.14.28:121][ 70]LogTexture: Display: Building textures: tile7 (BGRA8, 48X48)
+[2021.02.10-22.14.28:122][ 70]LogTexture: Display: Building textures: tile70 (BGRA8, 48X48)
+[2021.02.10-22.14.28:122][ 70]LogTexture: Display: Building textures: tile71 (BGRA8, 48X48)
+[2021.02.10-22.14.28:123][ 70]LogTexture: Display: Building textures: tile72 (BGRA8, 48X48)
+[2021.02.10-22.14.28:124][ 70]LogTexture: Display: Building textures: tile73 (BGRA8, 48X48)
+[2021.02.10-22.14.28:124][ 70]LogTexture: Display: Building textures: tile74 (BGRA8, 48X48)
+[2021.02.10-22.14.28:125][ 70]LogTexture: Display: Building textures: tile75 (BGRA8, 48X48)
+[2021.02.10-22.14.28:126][ 70]LogTexture: Display: Building textures: tile76 (BGRA8, 48X48)
+[2021.02.10-22.14.28:127][ 70]LogTexture: Display: Building textures: tile77 (BGRA8, 48X48)
+[2021.02.10-22.14.28:127][ 70]LogTexture: Display: Building textures: tile78 (BGRA8, 48X48)
+[2021.02.10-22.14.28:128][ 70]LogTexture: Display: Building textures: tile79 (BGRA8, 48X48)
+[2021.02.10-22.14.28:129][ 70]LogTexture: Display: Building textures: tile8 (BGRA8, 48X48)
+[2021.02.10-22.14.28:130][ 70]LogTexture: Display: Building textures: tile80 (BGRA8, 48X48)
+[2021.02.10-22.14.28:130][ 70]LogTexture: Display: Building textures: tile81 (BGRA8, 48X48)
+[2021.02.10-22.14.28:131][ 70]LogTexture: Display: Building textures: tile82 (BGRA8, 48X48)
+[2021.02.10-22.14.28:132][ 70]LogTexture: Display: Building textures: tile83 (BGRA8, 48X48)
+[2021.02.10-22.14.28:132][ 70]LogTexture: Display: Building textures: tile84 (BGRA8, 48X48)
+[2021.02.10-22.14.28:133][ 70]LogTexture: Display: Building textures: tile85 (BGRA8, 48X48)
+[2021.02.10-22.14.28:134][ 70]LogTexture: Display: Building textures: tile86 (BGRA8, 48X48)
+[2021.02.10-22.14.28:135][ 70]LogTexture: Display: Building textures: tile87 (BGRA8, 48X48)
+[2021.02.10-22.14.28:135][ 70]LogTexture: Display: Building textures: tile88 (BGRA8, 48X48)
+[2021.02.10-22.14.28:136][ 70]LogTexture: Display: Building textures: tile89 (BGRA8, 48X48)
+[2021.02.10-22.14.28:137][ 70]LogTexture: Display: Building textures: tile9 (BGRA8, 48X48)
+[2021.02.10-22.14.28:137][ 70]LogTexture: Display: Building textures: tile90 (BGRA8, 48X48)
+[2021.02.10-22.14.28:138][ 70]LogTexture: Display: Building textures: tile91 (BGRA8, 48X48)
+[2021.02.10-22.14.28:139][ 70]LogTexture: Display: Building textures: tile92 (BGRA8, 48X48)
+[2021.02.10-22.14.28:139][ 70]LogTexture: Display: Building textures: tile93 (BGRA8, 48X48)
+[2021.02.10-22.14.28:140][ 70]LogTexture: Display: Building textures: tile94 (BGRA8, 48X48)
+[2021.02.10-22.14.28:141][ 70]LogTexture: Display: Building textures: tile95 (BGRA8, 48X48)
+[2021.02.10-22.14.28:142][ 70]LogTexture: Display: Building textures: tile96 (BGRA8, 48X48)
+[2021.02.10-22.14.28:142][ 70]LogTexture: Display: Building textures: tile97 (BGRA8, 48X48)
+[2021.02.10-22.14.28:143][ 70]LogTexture: Display: Building textures: tile98 (BGRA8, 48X48)
+[2021.02.10-22.14.28:144][ 70]LogTexture: Display: Building textures: tile99 (BGRA8, 48X48)
+[2021.02.10-22.14.46:802][897]Cmd: TRANSACTION UNDO
+[2021.02.10-22.14.46:802][897]LogEditorTransaction: Undo Change Object Pin Value
+[2021.02.10-22.14.53:574][607]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2021.02.10-22.14.56:772][607]LogSlate: Window 'Delete Assets' being destroyed
+[2021.02.10-22.14.57:156][607]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2021.02.10-22.15.04:241][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2021.02.10-22.15.04:256][120]LogSavePackage: Moving '../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Saved/2DSideScrollerExampleMapF551AB17498E3E799E4D90901953A8E8.tmp' to '../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2021.02.10-22.15.04:272][120]LogSavePackage: Moving '../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Saved/2DSideScrollerExampleMap_BuiltDaF02F739C4230C2A22C1E65B455284AA5.tmp' to '../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2021.02.10-22.15.04:285][120]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.10-22.15.04:285][120]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2021.02.10-22.15.04:285][120]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2021.02.10-22.15.08:653][641]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/Maps/Nature/NatureSet.NatureSet
+[2021.02.10-22.16.02:830][915]LogSlate: Window 'NatureSet' being destroyed
+[2021.02.10-22.16.02:836][915]LogSlate: Window 'NatureSet' being destroyed
+[2021.02.10-22.16.02:848][915]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.02.10-22.16.02:848][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.10-22.16.06:277][322]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/Maps/Nature/Nature.Nature
+[2021.02.10-22.17.14:241][371]LogSlate: Window 'Nature*' being destroyed
+[2021.02.10-22.17.14:247][371]LogSlate: Window 'Nature*' being destroyed
+[2021.02.10-22.17.14:289][371]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.02.10-22.17.14:289][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.10-22.17.53:297][718]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/Maps/Nature/Nature.Nature
+[2021.02.10-22.18.41:290][819]LogSlate: Window 'Nature*' being destroyed
+[2021.02.10-22.18.41:294][819]LogSlate: Window 'Nature*' being destroyed
+[2021.02.10-22.18.41:300][819]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.02.10-22.18.41:300][819]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.10-22.19.26:533][984]LogSlate: Window 'tile101_TileSet' being destroyed
+[2021.02.10-22.19.26:537][984]LogSlate: Window 'tile101_TileSet' being destroyed
+[2021.02.10-22.19.26:542][984]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.02.10-22.19.26:542][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.10-22.19.26:560][984]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.02.10-22.19.26:560][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.10-22.19.26:577][984]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.02.10-22.19.26:577][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.10-22.20.21:902][446]Cmd: TRANSACTION UNDO
+[2021.02.10-22.20.21:902][446]LogEditorTransaction: Undo Delete Layer
+[2021.02.10-22.20.22:720][510]Cmd: TRANSACTION UNDO
+[2021.02.10-22.20.22:720][510]LogEditorTransaction: Undo Edit Tile Height
+[2021.02.10-22.20.23:459][597]Cmd: TRANSACTION UNDO
+[2021.02.10-22.20.23:459][597]LogEditorTransaction: Undo Edit Tile Width
+[2021.02.10-22.20.23:940][654]Cmd: TRANSACTION UNDO
+[2021.02.10-22.20.23:940][654]LogEditorTransaction: Undo Tile Painting
+[2021.02.10-22.20.24:270][693]Cmd: TRANSACTION UNDO
+[2021.02.10-22.20.24:270][693]LogEditorTransaction: Undo Edit Y
+[2021.02.10-22.20.24:511][721]Cmd: TRANSACTION UNDO
+[2021.02.10-22.20.24:511][721]LogEditorTransaction: Undo Edit X
+[2021.02.10-22.20.24:737][748]Cmd: TRANSACTION UNDO
+[2021.02.10-22.20.24:737][748]LogEditorTransaction: Undo Edit Tile Sheet Texture
+[2021.02.10-22.20.25:010][779]Cmd: TRANSACTION UNDO
+[2021.02.10-22.20.25:010][779]LogEditorTransaction: Undo Edit Tile Sheet Texture
+[2021.02.10-22.20.36:748][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2021.02.10-22.20.39:900][175]LogSlate: Window 'Delete Assets' being destroyed
+[2021.02.10-22.20.40:615][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2021.02.10-22.21.08:557][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile23.png)
+[2021.02.10-22.21.08:559][564]LogTexture: Display: Building textures: tile23 (AutoDXT, 48X48)
+[2021.02.10-22.21.08:564][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile24.png)
+[2021.02.10-22.21.08:566][564]LogTexture: Display: Building textures: tile24 (AutoDXT, 48X48)
+[2021.02.10-22.21.08:568][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile25.png)
+[2021.02.10-22.21.08:570][564]LogTexture: Display: Building textures: tile25 (AutoDXT, 48X48)
+[2021.02.10-22.21.08:573][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile26.png)
+[2021.02.10-22.21.08:575][564]LogTexture: Display: Building textures: tile26 (AutoDXT, 48X48)
+[2021.02.10-22.21.08:577][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile27.png)
+[2021.02.10-22.21.08:579][564]LogTexture: Display: Building textures: tile27 (AutoDXT, 48X48)
+[2021.02.10-22.21.08:582][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile28.png)
+[2021.02.10-22.21.08:583][564]LogTexture: Display: Building textures: tile28 (AutoDXT, 48X48)
+[2021.02.10-22.21.08:586][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile29.png)
+[2021.02.10-22.21.08:588][564]LogTexture: Display: Building textures: tile29 (AutoDXT, 48X48)
+[2021.02.10-22.21.08:591][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile30.png)
+[2021.02.10-22.21.08:593][564]LogTexture: Display: Building textures: tile30 (AutoDXT, 48X48)
+[2021.02.10-22.21.08:597][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile31.png)
+[2021.02.10-22.21.08:598][564]LogTexture: Display: Building textures: tile31 (AutoDXT, 48X48)
+[2021.02.10-22.21.08:602][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile32.png)
+[2021.02.10-22.21.08:604][564]LogTexture: Display: Building textures: tile32 (AutoDXT, 48X48)
+[2021.02.10-22.21.08:607][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile33.png)
+[2021.02.10-22.21.08:611][564]LogTexture: Display: Building textures: tile33 (BC5, 48X48)
+[2021.02.10-22.21.08:614][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile34.png)
+[2021.02.10-22.21.08:618][564]LogTexture: Display: Building textures: tile34 (BC5, 48X48)
+[2021.02.10-22.21.08:621][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile35.png)
+[2021.02.10-22.21.08:625][564]LogTexture: Display: Building textures: tile35 (BC5, 48X48)
+[2021.02.10-22.21.08:628][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile36.png)
+[2021.02.10-22.21.08:633][564]LogTexture: Display: Building textures: tile36 (BC5, 48X48)
+[2021.02.10-22.21.08:635][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile37.png)
+[2021.02.10-22.21.08:643][564]LogTexture: Display: Building textures: tile37 (AutoDXT, 48X48)
+[2021.02.10-22.21.08:646][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile38.png)
+[2021.02.10-22.21.08:651][564]LogTexture: Display: Building textures: tile38 (BC5, 48X48)
+[2021.02.10-22.21.08:654][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile39.png)
+[2021.02.10-22.21.08:656][564]LogTexture: Display: Building textures: tile39 (AutoDXT, 48X48)
+[2021.02.10-22.21.08:658][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile40.png)
+[2021.02.10-22.21.08:660][564]LogTexture: Display: Building textures: tile40 (AutoDXT, 48X48)
+[2021.02.10-22.21.08:663][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile41.png)
+[2021.02.10-22.21.08:664][564]LogTexture: Display: Building textures: tile41 (AutoDXT, 48X48)
+[2021.02.10-22.21.08:667][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile42.png)
+[2021.02.10-22.21.08:669][564]LogTexture: Display: Building textures: tile42 (AutoDXT, 48X48)
+[2021.02.10-22.21.08:672][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile43.png)
+[2021.02.10-22.21.08:674][564]LogTexture: Display: Building textures: tile43 (AutoDXT, 48X48)
+[2021.02.10-22.21.08:676][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile44.png)
+[2021.02.10-22.21.08:678][564]LogTexture: Display: Building textures: tile44 (AutoDXT, 48X48)
+[2021.02.10-22.21.08:681][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile45.png)
+[2021.02.10-22.21.08:682][564]LogTexture: Display: Building textures: tile45 (AutoDXT, 48X48)
+[2021.02.10-22.21.08:685][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile46.png)
+[2021.02.10-22.21.08:687][564]LogTexture: Display: Building textures: tile46 (AutoDXT, 48X48)
+[2021.02.10-22.21.08:689][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile47.png)
+[2021.02.10-22.21.08:691][564]LogTexture: Display: Building textures: tile47 (AutoDXT, 48X48)
+[2021.02.10-22.21.08:694][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile48.png)
+[2021.02.10-22.21.08:695][564]LogTexture: Display: Building textures: tile48 (AutoDXT, 48X48)
+[2021.02.10-22.21.08:698][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile49.png)
+[2021.02.10-22.21.08:700][564]LogTexture: Display: Building textures: tile49 (AutoDXT, 48X48)
+[2021.02.10-22.21.08:702][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile50.png)
+[2021.02.10-22.21.08:704][564]LogTexture: Display: Building textures: tile50 (AutoDXT, 48X48)
+[2021.02.10-22.21.08:706][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile51.png)
+[2021.02.10-22.21.08:708][564]LogTexture: Display: Building textures: tile51 (AutoDXT, 48X48)
+[2021.02.10-22.21.08:711][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile52.png)
+[2021.02.10-22.21.08:713][564]LogTexture: Display: Building textures: tile52 (AutoDXT, 48X48)
+[2021.02.10-22.21.08:715][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile53.png)
+[2021.02.10-22.21.08:717][564]LogTexture: Display: Building textures: tile53 (AutoDXT, 48X48)
+[2021.02.10-22.21.08:721][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile54.png)
+[2021.02.10-22.21.08:725][564]LogTexture: Display: Building textures: tile54 (BC5, 48X48)
+[2021.02.10-22.21.08:728][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile55.png)
+[2021.02.10-22.21.08:730][564]LogTexture: Display: Building textures: tile55 (AutoDXT, 48X48)
+[2021.02.10-22.21.08:733][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile56.png)
+[2021.02.10-22.21.08:738][564]LogTexture: Display: Building textures: tile56 (BC5, 48X48)
+[2021.02.10-22.21.08:741][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile57.png)
+[2021.02.10-22.21.08:745][564]LogTexture: Display: Building textures: tile57 (BC5, 48X48)
+[2021.02.10-22.21.08:748][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile58.png)
+[2021.02.10-22.21.08:752][564]LogTexture: Display: Building textures: tile58 (BC5, 48X48)
+[2021.02.10-22.21.08:880][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile59.png)
+[2021.02.10-22.21.08:885][564]LogTexture: Display: Building textures: tile59 (BC5, 48X48)
+[2021.02.10-22.21.08:887][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile60.png)
+[2021.02.10-22.21.08:889][564]LogTexture: Display: Building textures: tile60 (AutoDXT, 48X48)
+[2021.02.10-22.21.08:892][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile61.png)
+[2021.02.10-22.21.08:894][564]LogTexture: Display: Building textures: tile61 (AutoDXT, 48X48)
+[2021.02.10-22.21.08:896][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile62.png)
+[2021.02.10-22.21.08:898][564]LogTexture: Display: Building textures: tile62 (AutoDXT, 48X48)
+[2021.02.10-22.21.08:901][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile63.png)
+[2021.02.10-22.21.08:903][564]LogTexture: Display: Building textures: tile63 (AutoDXT, 48X48)
+[2021.02.10-22.21.08:907][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile64.png)
+[2021.02.10-22.21.08:908][564]LogTexture: Display: Building textures: tile64 (AutoDXT, 48X48)
+[2021.02.10-22.21.08:912][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile65.png)
+[2021.02.10-22.21.08:914][564]LogTexture: Display: Building textures: tile65 (AutoDXT, 48X48)
+[2021.02.10-22.21.08:918][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile66.png)
+[2021.02.10-22.21.08:920][564]LogTexture: Display: Building textures: tile66 (AutoDXT, 48X48)
+[2021.02.10-22.21.08:924][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile67.png)
+[2021.02.10-22.21.08:926][564]LogTexture: Display: Building textures: tile67 (AutoDXT, 48X48)
+[2021.02.10-22.21.08:931][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile68.png)
+[2021.02.10-22.21.08:933][564]LogTexture: Display: Building textures: tile68 (AutoDXT, 48X48)
+[2021.02.10-22.21.08:937][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile69.png)
+[2021.02.10-22.21.08:938][564]LogTexture: Display: Building textures: tile69 (AutoDXT, 48X48)
+[2021.02.10-22.21.08:943][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile70.png)
+[2021.02.10-22.21.08:945][564]LogTexture: Display: Building textures: tile70 (AutoDXT, 48X48)
+[2021.02.10-22.21.08:949][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile71.png)
+[2021.02.10-22.21.08:951][564]LogTexture: Display: Building textures: tile71 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:112][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile72.png)
+[2021.02.10-22.21.09:115][564]LogTexture: Display: Building textures: tile72 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:118][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile73.png)
+[2021.02.10-22.21.09:120][564]LogTexture: Display: Building textures: tile73 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:124][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile74.png)
+[2021.02.10-22.21.09:126][564]LogTexture: Display: Building textures: tile74 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:130][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile75.png)
+[2021.02.10-22.21.09:132][564]LogTexture: Display: Building textures: tile75 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:136][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile76.png)
+[2021.02.10-22.21.09:137][564]LogTexture: Display: Building textures: tile76 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:140][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile77.png)
+[2021.02.10-22.21.09:142][564]LogTexture: Display: Building textures: tile77 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:144][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile78.png)
+[2021.02.10-22.21.09:146][564]LogTexture: Display: Building textures: tile78 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:149][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile79.png)
+[2021.02.10-22.21.09:151][564]LogTexture: Display: Building textures: tile79 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:153][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile80.png)
+[2021.02.10-22.21.09:155][564]LogTexture: Display: Building textures: tile80 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:305][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile81.png)
+[2021.02.10-22.21.09:307][564]LogTexture: Display: Building textures: tile81 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:310][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile82.png)
+[2021.02.10-22.21.09:311][564]LogTexture: Display: Building textures: tile82 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:314][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile83.png)
+[2021.02.10-22.21.09:316][564]LogTexture: Display: Building textures: tile83 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:319][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile84.png)
+[2021.02.10-22.21.09:321][564]LogTexture: Display: Building textures: tile84 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:323][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile85.png)
+[2021.02.10-22.21.09:325][564]LogTexture: Display: Building textures: tile85 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:328][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile86.png)
+[2021.02.10-22.21.09:329][564]LogTexture: Display: Building textures: tile86 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:333][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile87.png)
+[2021.02.10-22.21.09:335][564]LogTexture: Display: Building textures: tile87 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:337][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile88.png)
+[2021.02.10-22.21.09:339][564]LogTexture: Display: Building textures: tile88 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:342][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile89.png)
+[2021.02.10-22.21.09:344][564]LogTexture: Display: Building textures: tile89 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:347][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile90.png)
+[2021.02.10-22.21.09:349][564]LogTexture: Display: Building textures: tile90 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:352][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile91.png)
+[2021.02.10-22.21.09:354][564]LogTexture: Display: Building textures: tile91 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:373][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile92.png)
+[2021.02.10-22.21.09:374][564]LogTexture: Display: Building textures: tile92 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:380][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile93.png)
+[2021.02.10-22.21.09:382][564]LogTexture: Display: Building textures: tile93 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:384][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile94.png)
+[2021.02.10-22.21.09:386][564]LogTexture: Display: Building textures: tile94 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:388][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile95.png)
+[2021.02.10-22.21.09:390][564]LogTexture: Display: Building textures: tile95 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:393][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile96.png)
+[2021.02.10-22.21.09:394][564]LogTexture: Display: Building textures: tile96 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:398][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile97.png)
+[2021.02.10-22.21.09:400][564]LogTexture: Display: Building textures: tile97 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:404][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile98.png)
+[2021.02.10-22.21.09:406][564]LogTexture: Display: Building textures: tile98 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:409][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile99.png)
+[2021.02.10-22.21.09:410][564]LogTexture: Display: Building textures: tile99 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:414][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile100.png)
+[2021.02.10-22.21.09:416][564]LogTexture: Display: Building textures: tile100 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:420][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile101.png)
+[2021.02.10-22.21.09:422][564]LogTexture: Display: Building textures: tile101 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:425][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile102.png)
+[2021.02.10-22.21.09:427][564]LogTexture: Display: Building textures: tile102 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:431][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile103.png)
+[2021.02.10-22.21.09:432][564]LogTexture: Display: Building textures: tile103 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:436][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile104.png)
+[2021.02.10-22.21.09:438][564]LogTexture: Display: Building textures: tile104 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:441][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile105.png)
+[2021.02.10-22.21.09:443][564]LogTexture: Display: Building textures: tile105 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:446][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile106.png)
+[2021.02.10-22.21.09:447][564]LogTexture: Display: Building textures: tile106 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:451][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile107.png)
+[2021.02.10-22.21.09:452][564]LogTexture: Display: Building textures: tile107 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:455][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile108.png)
+[2021.02.10-22.21.09:457][564]LogTexture: Display: Building textures: tile108 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:460][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile109.png)
+[2021.02.10-22.21.09:462][564]LogTexture: Display: Building textures: tile109 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:464][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile110.png)
+[2021.02.10-22.21.09:466][564]LogTexture: Display: Building textures: tile110 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:469][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile111.png)
+[2021.02.10-22.21.09:471][564]LogTexture: Display: Building textures: tile111 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:474][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile112.png)
+[2021.02.10-22.21.09:476][564]LogTexture: Display: Building textures: tile112 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:480][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile113.png)
+[2021.02.10-22.21.09:481][564]LogTexture: Display: Building textures: tile113 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:485][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile114.png)
+[2021.02.10-22.21.09:487][564]LogTexture: Display: Building textures: tile114 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:489][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile115.png)
+[2021.02.10-22.21.09:491][564]LogTexture: Display: Building textures: tile115 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:494][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile116.png)
+[2021.02.10-22.21.09:496][564]LogTexture: Display: Building textures: tile116 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:500][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile117.png)
+[2021.02.10-22.21.09:502][564]LogTexture: Display: Building textures: tile117 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:504][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile118.png)
+[2021.02.10-22.21.09:506][564]LogTexture: Display: Building textures: tile118 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:508][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile119.png)
+[2021.02.10-22.21.09:510][564]LogTexture: Display: Building textures: tile119 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:512][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile120.png)
+[2021.02.10-22.21.09:514][564]LogTexture: Display: Building textures: tile120 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:517][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile121.png)
+[2021.02.10-22.21.09:518][564]LogTexture: Display: Building textures: tile121 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:521][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile122.png)
+[2021.02.10-22.21.09:523][564]LogTexture: Display: Building textures: tile122 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:525][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile123.png)
+[2021.02.10-22.21.09:527][564]LogTexture: Display: Building textures: tile123 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:530][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile124.png)
+[2021.02.10-22.21.09:531][564]LogTexture: Display: Building textures: tile124 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:535][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile125.png)
+[2021.02.10-22.21.09:537][564]LogTexture: Display: Building textures: tile125 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:540][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile126.png)
+[2021.02.10-22.21.09:542][564]LogTexture: Display: Building textures: tile126 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:545][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile127.png)
+[2021.02.10-22.21.09:546][564]LogTexture: Display: Building textures: tile127 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:549][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile128.png)
+[2021.02.10-22.21.09:551][564]LogTexture: Display: Building textures: tile128 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:553][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\Layer-0.png)
+[2021.02.10-22.21.09:555][564]LogTexture: Display: Building textures: Layer-0 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:565][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile2.png)
+[2021.02.10-22.21.09:567][564]LogTexture: Display: Building textures: tile2 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:570][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile3.png)
+[2021.02.10-22.21.09:572][564]LogTexture: Display: Building textures: tile3 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:575][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile4.png)
+[2021.02.10-22.21.09:585][564]LogTexture: Display: Building textures: tile4 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:588][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile5.png)
+[2021.02.10-22.21.09:590][564]LogTexture: Display: Building textures: tile5 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:593][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile6.png)
+[2021.02.10-22.21.09:595][564]LogTexture: Display: Building textures: tile6 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:597][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile7.png)
+[2021.02.10-22.21.09:599][564]LogTexture: Display: Building textures: tile7 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:603][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile8.png)
+[2021.02.10-22.21.09:604][564]LogTexture: Display: Building textures: tile8 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:608][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile9.png)
+[2021.02.10-22.21.09:610][564]LogTexture: Display: Building textures: tile9 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:612][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile10.png)
+[2021.02.10-22.21.09:614][564]LogTexture: Display: Building textures: tile10 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:618][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile11.png)
+[2021.02.10-22.21.09:620][564]LogTexture: Display: Building textures: tile11 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:623][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile12.png)
+[2021.02.10-22.21.09:627][564]LogTexture: Display: Building textures: tile12 (BC5, 48X48)
+[2021.02.10-22.21.09:630][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile13.png)
+[2021.02.10-22.21.09:634][564]LogTexture: Display: Building textures: tile13 (BC5, 48X48)
+[2021.02.10-22.21.09:637][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile14.png)
+[2021.02.10-22.21.09:638][564]LogTexture: Display: Building textures: tile14 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:641][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile15.png)
+[2021.02.10-22.21.09:643][564]LogTexture: Display: Building textures: tile15 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:645][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile16.png)
+[2021.02.10-22.21.09:647][564]LogTexture: Display: Building textures: tile16 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:651][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile17.png)
+[2021.02.10-22.21.09:652][564]LogTexture: Display: Building textures: tile17 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:655][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile18.png)
+[2021.02.10-22.21.09:657][564]LogTexture: Display: Building textures: tile18 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:661][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile19.png)
+[2021.02.10-22.21.09:663][564]LogTexture: Display: Building textures: tile19 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:667][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile20.png)
+[2021.02.10-22.21.09:669][564]LogTexture: Display: Building textures: tile20 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:672][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile21.png)
+[2021.02.10-22.21.09:673][564]LogTexture: Display: Building textures: tile21 (AutoDXT, 48X48)
+[2021.02.10-22.21.09:677][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\Tileset 1\PNG\Tiles\tile22.png)
+[2021.02.10-22.21.09:678][564]LogTexture: Display: Building textures: tile22 (AutoDXT, 48X48)
+[2021.02.10-22.21.20:443][397]LogTexture: Display: Building textures: Layer-0 (BGRA8, 48X48)
+[2021.02.10-22.21.20:443][397]LogTexture: Display: Building textures: tile10 (BGRA8, 48X48)
+[2021.02.10-22.21.20:444][397]LogTexture: Display: Building textures: tile100 (BGRA8, 48X48)
+[2021.02.10-22.21.20:445][397]LogTexture: Display: Building textures: tile101 (BGRA8, 48X48)
+[2021.02.10-22.21.20:446][397]LogTexture: Display: Building textures: tile102 (BGRA8, 48X48)
+[2021.02.10-22.21.20:447][397]LogTexture: Display: Building textures: tile103 (BGRA8, 48X48)
+[2021.02.10-22.21.20:448][397]LogTexture: Display: Building textures: tile104 (BGRA8, 48X48)
+[2021.02.10-22.21.20:449][397]LogTexture: Display: Building textures: tile105 (BGRA8, 48X48)
+[2021.02.10-22.21.20:450][397]LogTexture: Display: Building textures: tile106 (BGRA8, 48X48)
+[2021.02.10-22.21.20:450][397]LogTexture: Display: Building textures: tile107 (BGRA8, 48X48)
+[2021.02.10-22.21.20:451][397]LogTexture: Display: Building textures: tile108 (BGRA8, 48X48)
+[2021.02.10-22.21.20:452][397]LogTexture: Display: Building textures: tile109 (BGRA8, 48X48)
+[2021.02.10-22.21.20:454][397]LogTexture: Display: Building textures: tile11 (BGRA8, 48X48)
+[2021.02.10-22.21.20:454][397]LogTexture: Display: Building textures: tile110 (BGRA8, 48X48)
+[2021.02.10-22.21.20:455][397]LogTexture: Display: Building textures: tile111 (BGRA8, 48X48)
+[2021.02.10-22.21.20:456][397]LogTexture: Display: Building textures: tile112 (BGRA8, 48X48)
+[2021.02.10-22.21.20:457][397]LogTexture: Display: Building textures: tile113 (BGRA8, 48X48)
+[2021.02.10-22.21.20:458][397]LogTexture: Display: Building textures: tile114 (BGRA8, 48X48)
+[2021.02.10-22.21.20:458][397]LogTexture: Display: Building textures: tile115 (BGRA8, 48X48)
+[2021.02.10-22.21.20:459][397]LogTexture: Display: Building textures: tile116 (BGRA8, 48X48)
+[2021.02.10-22.21.20:460][397]LogTexture: Display: Building textures: tile117 (BGRA8, 48X48)
+[2021.02.10-22.21.20:461][397]LogTexture: Display: Building textures: tile118 (BGRA8, 48X48)
+[2021.02.10-22.21.20:462][397]LogTexture: Display: Building textures: tile119 (BGRA8, 48X48)
+[2021.02.10-22.21.20:463][397]LogTexture: Display: Building textures: tile120 (BGRA8, 48X48)
+[2021.02.10-22.21.20:464][397]LogTexture: Display: Building textures: tile121 (BGRA8, 48X48)
+[2021.02.10-22.21.20:464][397]LogTexture: Display: Building textures: tile122 (BGRA8, 48X48)
+[2021.02.10-22.21.20:465][397]LogTexture: Display: Building textures: tile123 (BGRA8, 48X48)
+[2021.02.10-22.21.20:466][397]LogTexture: Display: Building textures: tile124 (BGRA8, 48X48)
+[2021.02.10-22.21.20:467][397]LogTexture: Display: Building textures: tile125 (BGRA8, 48X48)
+[2021.02.10-22.21.20:468][397]LogTexture: Display: Building textures: tile126 (BGRA8, 48X48)
+[2021.02.10-22.21.20:469][397]LogTexture: Display: Building textures: tile127 (BGRA8, 48X48)
+[2021.02.10-22.21.20:469][397]LogTexture: Display: Building textures: tile128 (BGRA8, 48X48)
+[2021.02.10-22.21.20:470][397]LogTexture: Display: Building textures: tile14 (BGRA8, 48X48)
+[2021.02.10-22.21.20:471][397]LogTexture: Display: Building textures: tile15 (BGRA8, 48X48)
+[2021.02.10-22.21.20:472][397]LogTexture: Display: Building textures: tile16 (BGRA8, 48X48)
+[2021.02.10-22.21.20:473][397]LogTexture: Display: Building textures: tile17 (BGRA8, 48X48)
+[2021.02.10-22.21.20:473][397]LogTexture: Display: Building textures: tile18 (BGRA8, 48X48)
+[2021.02.10-22.21.20:474][397]LogTexture: Display: Building textures: tile19 (BGRA8, 48X48)
+[2021.02.10-22.21.20:475][397]LogTexture: Display: Building textures: tile2 (BGRA8, 48X48)
+[2021.02.10-22.21.20:475][397]LogTexture: Display: Building textures: tile20 (BGRA8, 48X48)
+[2021.02.10-22.21.20:476][397]LogTexture: Display: Building textures: tile21 (BGRA8, 48X48)
+[2021.02.10-22.21.20:477][397]LogTexture: Display: Building textures: tile22 (BGRA8, 48X48)
+[2021.02.10-22.21.20:477][397]LogTexture: Display: Building textures: tile23 (BGRA8, 48X48)
+[2021.02.10-22.21.20:478][397]LogTexture: Display: Building textures: tile24 (BGRA8, 48X48)
+[2021.02.10-22.21.20:479][397]LogTexture: Display: Building textures: tile25 (BGRA8, 48X48)
+[2021.02.10-22.21.20:480][397]LogTexture: Display: Building textures: tile26 (BGRA8, 48X48)
+[2021.02.10-22.21.20:481][397]LogTexture: Display: Building textures: tile27 (BGRA8, 48X48)
+[2021.02.10-22.21.20:481][397]LogTexture: Display: Building textures: tile28 (BGRA8, 48X48)
+[2021.02.10-22.21.20:482][397]LogTexture: Display: Building textures: tile29 (BGRA8, 48X48)
+[2021.02.10-22.21.20:483][397]LogTexture: Display: Building textures: tile3 (BGRA8, 48X48)
+[2021.02.10-22.21.20:484][397]LogTexture: Display: Building textures: tile30 (BGRA8, 48X48)
+[2021.02.10-22.21.20:484][397]LogTexture: Display: Building textures: tile31 (BGRA8, 48X48)
+[2021.02.10-22.21.20:485][397]LogTexture: Display: Building textures: tile32 (BGRA8, 48X48)
+[2021.02.10-22.21.20:486][397]LogTexture: Display: Building textures: tile37 (BGRA8, 48X48)
+[2021.02.10-22.21.20:487][397]LogTexture: Display: Building textures: tile39 (BGRA8, 48X48)
+[2021.02.10-22.21.20:487][397]LogTexture: Display: Building textures: tile4 (BGRA8, 48X48)
+[2021.02.10-22.21.20:488][397]LogTexture: Display: Building textures: tile40 (BGRA8, 48X48)
+[2021.02.10-22.21.20:489][397]LogTexture: Display: Building textures: tile41 (BGRA8, 48X48)
+[2021.02.10-22.21.20:490][397]LogTexture: Display: Building textures: tile42 (BGRA8, 48X48)
+[2021.02.10-22.21.20:490][397]LogTexture: Display: Building textures: tile43 (BGRA8, 48X48)
+[2021.02.10-22.21.20:491][397]LogTexture: Display: Building textures: tile44 (BGRA8, 48X48)
+[2021.02.10-22.21.20:492][397]LogTexture: Display: Building textures: tile45 (BGRA8, 48X48)
+[2021.02.10-22.21.20:493][397]LogTexture: Display: Building textures: tile46 (BGRA8, 48X48)
+[2021.02.10-22.21.20:493][397]LogTexture: Display: Building textures: tile47 (BGRA8, 48X48)
+[2021.02.10-22.21.20:494][397]LogTexture: Display: Building textures: tile48 (BGRA8, 48X48)
+[2021.02.10-22.21.20:495][397]LogTexture: Display: Building textures: tile49 (BGRA8, 48X48)
+[2021.02.10-22.21.20:497][397]LogTexture: Display: Building textures: tile5 (BGRA8, 48X48)
+[2021.02.10-22.21.20:497][397]LogTexture: Display: Building textures: tile50 (BGRA8, 48X48)
+[2021.02.10-22.21.20:498][397]LogTexture: Display: Building textures: tile51 (BGRA8, 48X48)
+[2021.02.10-22.21.20:499][397]LogTexture: Display: Building textures: tile52 (BGRA8, 48X48)
+[2021.02.10-22.21.20:500][397]LogTexture: Display: Building textures: tile53 (BGRA8, 48X48)
+[2021.02.10-22.21.20:500][397]LogTexture: Display: Building textures: tile55 (BGRA8, 48X48)
+[2021.02.10-22.21.20:501][397]LogTexture: Display: Building textures: tile6 (BGRA8, 48X48)
+[2021.02.10-22.21.20:502][397]LogTexture: Display: Building textures: tile60 (BGRA8, 48X48)
+[2021.02.10-22.21.20:503][397]LogTexture: Display: Building textures: tile61 (BGRA8, 48X48)
+[2021.02.10-22.21.20:503][397]LogTexture: Display: Building textures: tile62 (BGRA8, 48X48)
+[2021.02.10-22.21.20:504][397]LogTexture: Display: Building textures: tile63 (BGRA8, 48X48)
+[2021.02.10-22.21.20:505][397]LogTexture: Display: Building textures: tile64 (BGRA8, 48X48)
+[2021.02.10-22.21.20:505][397]LogTexture: Display: Building textures: tile65 (BGRA8, 48X48)
+[2021.02.10-22.21.20:506][397]LogTexture: Display: Building textures: tile66 (BGRA8, 48X48)
+[2021.02.10-22.21.20:507][397]LogTexture: Display: Building textures: tile67 (BGRA8, 48X48)
+[2021.02.10-22.21.20:507][397]LogTexture: Display: Building textures: tile68 (BGRA8, 48X48)
+[2021.02.10-22.21.20:508][397]LogTexture: Display: Building textures: tile69 (BGRA8, 48X48)
+[2021.02.10-22.21.20:509][397]LogTexture: Display: Building textures: tile7 (BGRA8, 48X48)
+[2021.02.10-22.21.20:509][397]LogTexture: Display: Building textures: tile70 (BGRA8, 48X48)
+[2021.02.10-22.21.20:510][397]LogTexture: Display: Building textures: tile71 (BGRA8, 48X48)
+[2021.02.10-22.21.20:511][397]LogTexture: Display: Building textures: tile72 (BGRA8, 48X48)
+[2021.02.10-22.21.20:511][397]LogTexture: Display: Building textures: tile73 (BGRA8, 48X48)
+[2021.02.10-22.21.20:512][397]LogTexture: Display: Building textures: tile74 (BGRA8, 48X48)
+[2021.02.10-22.21.20:513][397]LogTexture: Display: Building textures: tile75 (BGRA8, 48X48)
+[2021.02.10-22.21.20:513][397]LogTexture: Display: Building textures: tile76 (BGRA8, 48X48)
+[2021.02.10-22.21.20:514][397]LogTexture: Display: Building textures: tile77 (BGRA8, 48X48)
+[2021.02.10-22.21.20:514][397]LogTexture: Display: Building textures: tile78 (BGRA8, 48X48)
+[2021.02.10-22.21.20:515][397]LogTexture: Display: Building textures: tile79 (BGRA8, 48X48)
+[2021.02.10-22.21.20:516][397]LogTexture: Display: Building textures: tile8 (BGRA8, 48X48)
+[2021.02.10-22.21.20:516][397]LogTexture: Display: Building textures: tile80 (BGRA8, 48X48)
+[2021.02.10-22.21.20:517][397]LogTexture: Display: Building textures: tile81 (BGRA8, 48X48)
+[2021.02.10-22.21.20:518][397]LogTexture: Display: Building textures: tile82 (BGRA8, 48X48)
+[2021.02.10-22.21.20:519][397]LogTexture: Display: Building textures: tile83 (BGRA8, 48X48)
+[2021.02.10-22.21.20:520][397]LogTexture: Display: Building textures: tile84 (BGRA8, 48X48)
+[2021.02.10-22.21.20:520][397]LogTexture: Display: Building textures: tile85 (BGRA8, 48X48)
+[2021.02.10-22.21.20:521][397]LogTexture: Display: Building textures: tile86 (BGRA8, 48X48)
+[2021.02.10-22.21.20:521][397]LogTexture: Display: Building textures: tile87 (BGRA8, 48X48)
+[2021.02.10-22.21.20:522][397]LogTexture: Display: Building textures: tile88 (BGRA8, 48X48)
+[2021.02.10-22.21.20:523][397]LogTexture: Display: Building textures: tile89 (BGRA8, 48X48)
+[2021.02.10-22.21.20:523][397]LogTexture: Display: Building textures: tile9 (BGRA8, 48X48)
+[2021.02.10-22.21.20:524][397]LogTexture: Display: Building textures: tile90 (BGRA8, 48X48)
+[2021.02.10-22.21.20:525][397]LogTexture: Display: Building textures: tile91 (BGRA8, 48X48)
+[2021.02.10-22.21.20:526][397]LogTexture: Display: Building textures: tile92 (BGRA8, 48X48)
+[2021.02.10-22.21.20:526][397]LogTexture: Display: Building textures: tile93 (BGRA8, 48X48)
+[2021.02.10-22.21.20:527][397]LogTexture: Display: Building textures: tile94 (BGRA8, 48X48)
+[2021.02.10-22.21.20:527][397]LogTexture: Display: Building textures: tile95 (BGRA8, 48X48)
+[2021.02.10-22.21.20:528][397]LogTexture: Display: Building textures: tile96 (BGRA8, 48X48)
+[2021.02.10-22.21.20:529][397]LogTexture: Display: Building textures: tile97 (BGRA8, 48X48)
+[2021.02.10-22.21.20:530][397]LogTexture: Display: Building textures: tile98 (BGRA8, 48X48)
+[2021.02.10-22.21.20:531][397]LogTexture: Display: Building textures: tile99 (BGRA8, 48X48)
+[2021.02.10-22.21.45:149][ 17]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.02.10-22.21.46:903][ 17]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.755 s
+[2021.02.10-22.21.46:903][ 17]LogOutputDevice: Error: === Handled ensure: ===
+[2021.02.10-22.21.46:903][ 17]LogOutputDevice: Error: 
+[2021.02.10-22.21.46:903][ 17]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateDynamicImageBrush.h] [Line: 119]
+[2021.02.10-22.21.46:903][ 17]LogOutputDevice: Error: This hack usually results in a crash during loading screens in slate.  Please change any code that arrives here to not use FSlateDynamicImageBrush.  In the case of loading screens, you can use FDeferredCleanupSlateBrush.  Which correctly accounts for both GC lifetime, and the lifetime of the object through the slate rendering pipeline which may be several frames after you stop using it.
+[2021.02.10-22.21.46:903][ 17]LogOutputDevice: Error: Stack: 
+[2021.02.10-22.21.46:903][ 17]LogOutputDevice: Error: [Callstack] 0x00007fffc393a8e8 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.02.10-22.21.46:903][ 17]LogOutputDevice: Error: [Callstack] 0x00007fffc36fe347 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.02.10-22.21.46:904][ 17]LogOutputDevice: Error: [Callstack] 0x00007fffc36b2e64 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.02.10-22.21.46:904][ 17]LogOutputDevice: Error: [Callstack] 0x00007fffc2591d0c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.02.10-22.21.46:904][ 17]LogOutputDevice: Error: [Callstack] 0x00007fffc201999b UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.02.10-22.21.46:904][ 17]LogOutputDevice: Error: [Callstack] 0x00007fffa5fb6d22 UE4Editor-AssetTools.dll!UnknownFunction []
+[2021.02.10-22.21.46:904][ 17]LogOutputDevice: Error: [Callstack] 0x00007fffa5fd870c UE4Editor-AssetTools.dll!UnknownFunction []
+[2021.02.10-22.21.46:904][ 17]LogOutputDevice: Error: [Callstack] 0x00007fffa5fe145c UE4Editor-AssetTools.dll!UnknownFunction []
+[2021.02.10-22.21.46:904][ 17]LogOutputDevice: Error: [Callstack] 0x00007fffd6d8ab85 UE4Editor-Slate.dll!UnknownFunction []
+[2021.02.10-22.21.46:904][ 17]LogOutputDevice: Error: [Callstack] 0x00007fffd6d91320 UE4Editor-Slate.dll!UnknownFunction []
+[2021.02.10-22.21.46:904][ 17]LogOutputDevice: Error: [Callstack] 0x00007fffd6d6a937 UE4Editor-Slate.dll!UnknownFunction []
+[2021.02.10-22.21.46:904][ 17]LogOutputDevice: Error: [Callstack] 0x00007fffd6e0207e UE4Editor-Slate.dll!UnknownFunction []
+[2021.02.10-22.21.46:904][ 17]LogOutputDevice: Error: [Callstack] 0x00007fffd6e1b27e UE4Editor-Slate.dll!UnknownFunction []
+[2021.02.10-22.21.46:904][ 17]LogOutputDevice: Error: [Callstack] 0x00007fffd6d92a95 UE4Editor-Slate.dll!UnknownFunction []
+[2021.02.10-22.21.46:904][ 17]LogOutputDevice: Error: [Callstack] 0x00007fffd6c62dc8 UE4Editor-Slate.dll!UnknownFunction []
+[2021.02.10-22.21.46:904][ 17]LogOutputDevice: Error: [Callstack] 0x00007fffd6ce69cf UE4Editor-Slate.dll!UnknownFunction []
+[2021.02.10-22.21.46:905][ 17]LogOutputDevice: Error: [Callstack] 0x00007fffd6ccf4b2 UE4Editor-Slate.dll!UnknownFunction []
+[2021.02.10-22.21.46:905][ 17]LogOutputDevice: Error: [Callstack] 0x00007fffd6cc2392 UE4Editor-Slate.dll!UnknownFunction []
+[2021.02.10-22.21.46:905][ 17]LogOutputDevice: Error: [Callstack] 0x00007ffff7717f88 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.02.10-22.21.46:905][ 17]LogOutputDevice: Error: [Callstack] 0x00007ffff7705c87 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.02.10-22.21.46:905][ 17]LogOutputDevice: Error: [Callstack] 0x00007ffff771a619 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.02.10-22.21.46:905][ 17]LogOutputDevice: Error: [Callstack] 0x00007ffff77017d0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.02.10-22.21.46:905][ 17]LogOutputDevice: Error: [Callstack] 0x00007ff8267e5c1d USER32.dll!UnknownFunction []
+[2021.02.10-22.21.46:905][ 17]LogOutputDevice: Error: [Callstack] 0x00007ff8267e5612 USER32.dll!UnknownFunction []
+[2021.02.10-22.21.46:905][ 17]LogOutputDevice: Error: [Callstack] 0x00007ffff771bb34 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.02.10-22.21.46:905][ 17]LogOutputDevice: Error: [Callstack] 0x00007ff7c3db68c4 UE4Editor.exe!UnknownFunction []
+[2021.02.10-22.21.46:905][ 17]LogOutputDevice: Error: [Callstack] 0x00007ff7c3dcba7c UE4Editor.exe!UnknownFunction []
+[2021.02.10-22.21.46:905][ 17]LogOutputDevice: Error: [Callstack] 0x00007ff7c3dcbb5a UE4Editor.exe!UnknownFunction []
+[2021.02.10-22.21.46:905][ 17]LogOutputDevice: Error: [Callstack] 0x00007ff7c3dde31d UE4Editor.exe!UnknownFunction []
+[2021.02.10-22.21.46:905][ 17]LogOutputDevice: Error: [Callstack] 0x00007ff7c3de145a UE4Editor.exe!UnknownFunction []
+[2021.02.10-22.21.46:905][ 17]LogOutputDevice: Error: [Callstack] 0x00007ff8266c7c24 KERNEL32.DLL!UnknownFunction []
+[2021.02.10-22.21.46:905][ 17]LogOutputDevice: Error: [Callstack] 0x00007ff827acd4d1 ntdll.dll!UnknownFunction []
+[2021.02.10-22.21.46:905][ 17]LogOutputDevice: Error: 

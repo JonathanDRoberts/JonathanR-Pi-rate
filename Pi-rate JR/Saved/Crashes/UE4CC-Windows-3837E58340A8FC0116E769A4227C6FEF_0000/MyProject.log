@@ -1,0 +1,1004 @@
+﻿Log file open, 03/09/21 17:01:35
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.213154
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-14469661
+LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz, GPU: NVIDIA GeForce GTX 1650 SUPER
+LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.03.09-22.01.35:822][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.03.09-22.01.35:822][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.03.09-22.01.35:822][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Saved/Config/Windows/Engine.ini]
+[2021.03.09-22.01.35:822][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.03.09-22.01.35:822][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2021.03.09-22.01.35:822][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Saved/Config/Windows/Engine.ini]
+[2021.03.09-22.01.35:822][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Saved/Config/Windows/Engine.ini]
+[2021.03.09-22.01.35:822][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.03.09-22.01.35:822][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.03.09-22.01.35:822][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.03.09-22.01.35:822][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.03.09-22.01.35:822][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.03.09-22.01.35:822][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.03.09-22.01.35:822][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.03.09-22.01.35:822][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.03.09-22.01.35:822][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.03.09-22.01.35:822][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.03.09-22.01.35:822][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.03.09-22.01.35:823][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.03.09-22.01.35:823][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.03.09-22.01.35:823][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.03.09-22.01.35:823][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Saved/Config/Windows/Engine.ini]
+[2021.03.09-22.01.35:823][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.03.09-22.01.35:823][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.03.09-22.01.35:823][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.03.09-22.01.35:823][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.03.09-22.01.35:823][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.03.09-22.01.35:823][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.03.09-22.01.35:823][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.03.09-22.01.35:823][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.03.09-22.01.35:823][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.03.09-22.01.35:823][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.03.09-22.01.35:823][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.03.09-22.01.35:823][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.03.09-22.01.35:823][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.03.09-22.01.35:823][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Saved/Config/Windows/Engine.ini]
+[2021.03.09-22.01.35:823][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Saved/Config/Windows/Engine.ini]
+[2021.03.09-22.01.35:825][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Saved/Config/Windows/Scalability.ini]
+[2021.03.09-22.01.35:825][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.09-22.01.35:825][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.09-22.01.35:825][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Saved/Config/Windows/Scalability.ini]
+[2021.03.09-22.01.35:825][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.09-22.01.35:825][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Saved/Config/Windows/Scalability.ini]
+[2021.03.09-22.01.35:825][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.09-22.01.35:825][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.09-22.01.35:825][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.09-22.01.35:825][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.09-22.01.35:825][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.09-22.01.35:825][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.09-22.01.35:825][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.09-22.01.35:825][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.09-22.01.35:825][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.09-22.01.35:825][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.09-22.01.35:825][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.09-22.01.35:825][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.09-22.01.35:825][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.09-22.01.35:825][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.09-22.01.35:825][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.09-22.01.35:825][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.09-22.01.35:825][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.09-22.01.35:825][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.09-22.01.35:825][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Saved/Config/Windows/Scalability.ini]
+[2021.03.09-22.01.35:825][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.09-22.01.35:825][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.09-22.01.35:825][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.09-22.01.35:825][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.09-22.01.35:825][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.09-22.01.35:825][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.09-22.01.35:825][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.09-22.01.35:825][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.09-22.01.35:825][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.09-22.01.35:825][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.09-22.01.35:825][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.09-22.01.35:825][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.09-22.01.35:825][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.09-22.01.35:825][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.09-22.01.35:825][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.09-22.01.35:825][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.09-22.01.35:825][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.09-22.01.35:825][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.09-22.01.35:825][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.09-22.01.35:825][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Saved/Config/Windows/Scalability.ini]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Saved/Config/Windows/Scalability.ini]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Saved/Config/Windows/Scalability.ini]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Saved/Config/Windows/Scalability.ini]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.03.09-22.01.35:826][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.09-22.01.35:826][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.03.09-22.01.35:826][  0]LogHAL: Display: Platform has ~ 32 GB [34322714624 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.03.09-22.01.35:826][  0]LogInit: Going up to parent DeviceProfile []
+[2021.03.09-22.01.35:826][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Saved/Config/Windows/Scalability.ini]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Saved/Config/Windows/Scalability.ini]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Saved/Config/Windows/Scalability.ini]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.09-22.01.35:826][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Saved/Config/Windows/Scalability.ini]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Saved/Config/Windows/Scalability.ini]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Saved/Config/Windows/Scalability.ini]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.09-22.01.35:827][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.03.09-22.01.35:828][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.09-22.01.35:828][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.09-22.01.35:828][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.09-22.01.35:828][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.03.09-22.01.35:828][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.09-22.01.35:828][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.03.09-22.01.35:828][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.09-22.01.35:828][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.09-22.01.35:828][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.09-22.01.35:828][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Saved/Config/Windows/Scalability.ini]
+[2021.03.09-22.01.35:828][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.09-22.01.35:828][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.09-22.01.35:828][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Saved/Config/Windows/Scalability.ini]
+[2021.03.09-22.01.35:828][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.03.09-22.01.35:828][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.03.09-22.01.35:828][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.03.09-22.01.35:828][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.03.09-22.01.35:828][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.03.09-22.01.35:828][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.03.09-22.01.35:828][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.03.09-22.01.35:828][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.03.09-22.01.35:828][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.03.09-22.01.35:828][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.03.09-22.01.35:828][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.03.09-22.01.35:828][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Saved/Config/Windows/Engine.ini]
+[2021.03.09-22.01.35:828][  0]LogInit: Computer: DESKTOP-31F1J12
+[2021.03.09-22.01.35:828][  0]LogInit: User: jonny
+[2021.03.09-22.01.35:828][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.03.09-22.01.35:828][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.03.09-22.01.35:828][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2021.03.09-22.01.35:828][  0]LogMemory: Platform Memory Stats for Windows
+[2021.03.09-22.01.35:828][  0]LogMemory: Process Physical Memory: 113.91 MB used, 113.92 MB peak
+[2021.03.09-22.01.35:828][  0]LogMemory: Process Virtual Memory: 96.18 MB used, 96.18 MB peak
+[2021.03.09-22.01.35:828][  0]LogMemory: Physical Memory: 9525.25 MB used,  23207.44 MB free, 32732.69 MB total
+[2021.03.09-22.01.35:829][  0]LogMemory: Virtual Memory: 5143.12 MB used,  134212584.00 MB free, 134217728.00 MB total
+[2021.03.09-22.01.35:834][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.03.09-22.01.35:870][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.03.09-22.01.35:871][  0]LogInit: Using OS detected language (en-US).
+[2021.03.09-22.01.35:871][  0]LogInit: Using OS detected locale (en-US).
+[2021.03.09-22.01.35:879][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.03.09-22.01.36:066][  0]LogInit: Setting process to per monitor DPI aware
+[2021.03.09-22.01.36:134][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.03.09-22.01.36:134][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.03.09-22.01.36:304][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.09-22.01.36:304][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.03.09-22.01.36:304][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.03.09-22.01.36:304][  0]LogD3D11RHI: D3D11 adapters:
+[2021.03.09-22.01.36:375][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1650 SUPER' (Feature Level 11_0)
+[2021.03.09-22.01.36:375][  0]LogD3D11RHI:       3955/0/16366 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.03.09-22.01.36:378][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.03.09-22.01.36:378][  0]LogD3D11RHI:       0/0/16366 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.03.09-22.01.36:378][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.03.09-22.01.36:384][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.03.09-22.01.36:384][  0]LogD3D11RHI:     GPU DeviceId: 0x2187 (for the marketing name, search the web for "GPU Device Id")
+[2021.03.09-22.01.36:384][  0]LogWindows: EnumDisplayDevices:
+[2021.03.09-22.01.36:384][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1650 SUPER' (P:1 D:1)
+[2021.03.09-22.01.36:385][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1650 SUPER' (P:0 D:0)
+[2021.03.09-22.01.36:385][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1650 SUPER' (P:0 D:0)
+[2021.03.09-22.01.36:385][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1650 SUPER' (P:0 D:0)
+[2021.03.09-22.01.36:386][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.03.09-22.01.36:386][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650 SUPER
+[2021.03.09-22.01.36:386][  0]LogD3D11RHI:   Driver Version: 461.40 (internal:27.21.14.6140, unified:461.40)
+[2021.03.09-22.01.36:386][  0]LogD3D11RHI:      Driver Date: 1-22-2021
+[2021.03.09-22.01.36:386][  0]LogRHI: Texture pool is 2768 MB (70% of 3955 MB)
+[2021.03.09-22.01.36:447][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.03.09-22.01.36:447][  0]LogD3D11RHI: Async texture creation enabled
+[2021.03.09-22.01.36:447][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.03.09-22.01.36:477][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.03.09-22.01.36:790][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.03.09-22.01.36:811][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.03.09-22.01.36:811][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.03.09-22.01.36:811][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.03.09-22.01.36:811][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.03.09-22.01.36:811][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.03.09-22.01.36:811][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.03.09-22.01.36:811][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.03.09-22.01.36:811][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.03.09-22.01.36:811][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.03.09-22.01.36:811][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.03.09-22.01.36:835][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.03.09-22.01.36:835][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.03.09-22.01.36:845][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.03.09-22.01.36:854][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.03.09-22.01.36:864][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.03.09-22.01.36:873][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.03.09-22.01.36:881][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.03.09-22.01.36:890][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.03.09-22.01.36:900][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.03.09-22.01.36:927][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.03.09-22.01.36:927][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.03.09-22.01.36:947][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.03.09-22.01.36:947][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.03.09-22.01.36:956][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.03.09-22.01.36:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.03.09-22.01.36:977][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.03.09-22.01.36:988][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.03.09-22.01.36:988][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.03.09-22.01.36:997][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.03.09-22.01.37:065][  0]LogShaderCompilers: Guid format shader working directory is -38 characters bigger than the processId version (../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Intermediate/Shaders/WorkingDirectory/20632/).
+[2021.03.09-22.01.37:065][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/jonny/AppData/Local/Temp/UnrealShaderWorkingDir/A3BCF2E24FBE15D06FE011B6E286AA92/'.
+[2021.03.09-22.01.37:065][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.03.09-22.01.37:065][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.03.09-22.01.37:065][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.03.09-22.01.37:723][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.03.09-22.01.37:772][  0]LogDerivedDataCache: Loaded boot cache 0.05s 76MB C:/Users/jonny/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.03.09-22.01.37:772][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/jonny/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2021.03.09-22.01.37:772][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.03.09-22.01.37:772][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.03.09-22.01.37:772][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.09-22.01.37:772][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.03.09-22.01.37:781][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.03.09-22.01.37:781][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.09-22.01.37:781][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.03.09-22.01.37:782][  0]LogDerivedDataCache: Using Local data cache path C:/Users/jonny/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.03.09-22.01.37:782][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.03.09-22.01.37:782][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.03.09-22.01.37:826][  0]LogSlate: Using FreeType 2.10.0
+[2021.03.09-22.01.37:826][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.03.09-22.01.37:851][  0]LogAssetRegistry: FAssetRegistry took 0.0026 seconds to start up
+[2021.03.09-22.01.38:084][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.09-22.01.38:186][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.03.09-22.01.38:186][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.03.09-22.01.38:186][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.03.09-22.01.38:186][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.03.09-22.01.38:186][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.03.09-22.01.38:199][  0]LogNetVersion: MyProject 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 709303259)
+[2021.03.09-22.01.38:585][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (00000224438FD400), frame # 0
+[2021.03.09-22.01.38:585][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000224438611C0), frame # 0
+[2021.03.09-22.01.38:586][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000224438D8800), frame # 0
+[2021.03.09-22.01.38:640][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.049140 seconds
+[2021.03.09-22.01.38:645][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2021.03.09-22.01.38:645][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2021.03.09-22.01.38:645][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.03.09-22.01.38:989][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.03.09-22.01.38:993][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.03.09-22.01.39:093][  0]SourceControl: Source control is disabled
+[2021.03.09-22.01.39:093][  0]SourceControl: Source control is disabled
+[2021.03.09-22.01.39:097][  0]SourceControl: Source control is disabled
+[2021.03.09-22.01.39:100][  0]SourceControl: Source control is disabled
+[2021.03.09-22.01.39:108][  0]SourceControl: Source control is disabled
+[2021.03.09-22.01.39:369][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.03.09-22.01.39:393][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.09-22.01.39:393][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.09-22.01.39:447][  0]LogOcInput: OculusInput pre-init called
+[2021.03.09-22.01.39:458][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.03.09-22.01.39:458][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.03.09-22.01.39:513][  0]LogEngine: Initializing Engine...
+[2021.03.09-22.01.39:514][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.09-22.01.39:514][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.03.09-22.01.39:515][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.03.09-22.01.39:615][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.03.09-22.01.39:622][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.03.09-22.01.39:622][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022445D69C00), frame # 0
+[2021.03.09-22.01.39:622][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022445D8A480), frame # 0
+[2021.03.09-22.01.39:637][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.09-22.01.39:637][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.09-22.01.39:637][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.09-22.01.39:637][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.09-22.01.39:637][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.09-22.01.39:637][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.09-22.01.39:637][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.09-22.01.39:637][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.09-22.01.39:637][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.09-22.01.39:637][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.09-22.01.39:653][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.09-22.01.39:653][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.03.09-22.01.39:687][  0]LogAudioMixer: Display: Using Audio Device Speakers (3- USB PnP Audio Device)
+[2021.03.09-22.01.39:689][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.09-22.01.39:692][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.09-22.01.39:692][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.09-22.01.39:693][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.09-22.01.39:694][  0]LogInit: FAudioDevice initialized.
+[2021.03.09-22.01.39:694][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.03.09-22.01.39:864][  0]LogDerivedDataCache: Saved boot cache 0.17s 76MB C:/Users/jonny/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.03.09-22.01.39:864][  0]LogInit: Texture streaming: Enabled
+[2021.03.09-22.01.39:881][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.03.09-22.01.39:881][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.03.09-22.01.39:883][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.03.09-22.01.39:939][  0]LogInit: Transaction tracking system initialized
+[2021.03.09-22.01.39:960][  0]BlueprintLog: New page: Editor Load
+[2021.03.09-22.01.40:037][  0]LocalizationService: Localization service is disabled
+[2021.03.09-22.01.40:189][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.03.09-22.01.40:189][  0]LogCook: Display: Mobile HDR setting 0
+[2021.03.09-22.01.40:331][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Content/' took 0.01s
+[2021.03.09-22.01.40:536][  0]SourceControl: Source control is disabled
+[2021.03.09-22.01.40:536][  0]LogUnrealEdMisc: Loading editor; pre map load, took 7.254
+[2021.03.09-22.01.40:536][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2021.03.09-22.01.40:536][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.09-22.01.40:536][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.178ms to complete.
+[2021.03.09-22.01.40:536][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.001
+[2021.03.09-22.01.40:538][  0]LogUnrealEdMisc: Total Editor Startup Time, took 7.256
+[2021.03.09-22.01.40:652][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.09-22.01.40:659][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.09-22.01.40:665][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.09-22.01.40:671][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.09-22.01.40:679][  0]LogCollectionManager: Loaded 0 collections in 0.001944 seconds
+[2021.03.09-22.01.40:693][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Saved/Collections/' took 0.00s
+[2021.03.09-22.01.40:693][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Content/Developers/jonny/Collections/' took 0.00s
+[2021.03.09-22.01.40:693][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Content/Collections/' took 0.00s
+[2021.03.09-22.01.40:693][  0]LogContentBrowser: Native class hierarchy populated in 0.0081 seconds. Added 3427 classes and 821 folders.
+[2021.03.09-22.01.40:696][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.03.09-22.01.41:605][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.03.09-22.01.41:606][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.03.09-22.01.41:668][  0]LogSlate: Took 0.000276 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.03.09-22.01.41:671][  0]LogSlate: Took 0.000247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.03.09-22.01.41:896][  0]LogSlate: Took 0.220330 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.03.09-22.01.42:520][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2021.03.09-22.01.42:598][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.03.09-22.01.42:598][  0]LogLoad: (Engine Initialization) Total time: 9.32 seconds
+[2021.03.09-22.01.42:598][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.03.09-22.01.42:639][  0]LogAssetRegistry: Asset discovery search completed in 4.7881 seconds
+[2021.03.09-22.01.42:642][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.03.09-22.01.42:643][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.03.09-22.01.42:739][  0]LogSlate: Took 0.038555 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.09-22.02.26:283][734]LogSlate: Window 'New Level' being destroyed
+[2021.03.09-22.02.26:288][734]LightingResults: New page: Lighting Build
+[2021.03.09-22.02.26:289][734]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 6 classes and 0 folders.
+[2021.03.09-22.02.26:289][734]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.03.09-22.02.26:289][734]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.09-22.02.26:289][734]MapCheck: New page: Map Check
+[2021.03.09-22.02.26:289][734]LightingResults: New page: Lighting Build
+[2021.03.09-22.02.26:297][734]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022445D69C00), frame # 4734
+[2021.03.09-22.02.26:297][734]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022445D8A480), frame # 4734
+[2021.03.09-22.02.26:298][734]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.03.09-22.02.26:301][734]LogAIModule: Creating AISystem for world Untitled
+[2021.03.09-22.02.26:301][734]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022445D69C00), frame # 4734
+[2021.03.09-22.02.26:301][734]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002243BF24B80), frame # 4734
+[2021.03.09-22.02.26:370][734]LoadErrors: New page: New Map
+[2021.03.09-22.29.50:624][764]LogSlate: Took 0.000239 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.09-22.29.55:134][764]LogStaticMesh: Building static mesh Floor_400x400...
+[2021.03.09-22.29.55:134][764]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2021.03.09-22.29.55:965][764]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/StarterMap.StarterMap
+[2021.03.09-22.29.55:977][764]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2021.03.09-22.29.55:979][764]Cmd: MAP LOAD FILE="../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Content/StarterContent/Maps/StarterMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.09-22.29.55:979][764]LightingResults: New page: Lighting Build
+[2021.03.09-22.29.55:979][764]LoadErrors: New page: Loading map: StarterMap.umap
+[2021.03.09-22.29.56:009][764]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.03.09-22.29.56:009][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.09-22.29.56:009][764]MapCheck: New page: Map Check
+[2021.03.09-22.29.56:009][764]LightingResults: New page: Lighting Build
+[2021.03.09-22.29.56:016][764]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002243BF24B80), frame # 19764
+[2021.03.09-22.29.56:016][764]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022445D69C00), frame # 19764
+[2021.03.09-22.29.56:017][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.03.09-22.29.56:169][764]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.09-22.29.56:169][764]LogAIModule: Creating AISystem for world StarterMap
+[2021.03.09-22.29.56:169][764]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000224727C9000), frame # 19764
+[2021.03.09-22.29.56:169][764]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002245D6D96C0), frame # 19764
+[2021.03.09-22.29.56:182][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.03.09-22.29.56:203][764]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.09-22.29.56:204][764]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.189ms to complete.
+[2021.03.09-22.29.56:204][764]LogFileHelpers: Loading map 'StarterMap' took 0.225
+[2021.03.09-22.30.15:026][627]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.03.09-22.30.15:030][627]Cmd: MAP LOAD FILE="../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Content/Maps/Nature_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.09-22.30.15:044][627]LightingResults: New page: Lighting Build
+[2021.03.09-22.30.15:044][627]LoadErrors: New page: Loading map: Nature_Map.umap
+[2021.03.09-22.30.15:090][627]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.09-22.30.15:090][627]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.09-22.30.15:090][627]MapCheck: New page: Map Check
+[2021.03.09-22.30.15:090][627]LightingResults: New page: Lighting Build
+[2021.03.09-22.30.15:099][627]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002245D6D96C0), frame # 21627
+[2021.03.09-22.30.15:099][627]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000224727C9000), frame # 21627
+[2021.03.09-22.30.15:100][627]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.03.09-22.30.15:495][627]LogAIModule: Creating AISystem for world Nature_Map
+[2021.03.09-22.30.15:495][627]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000224666A0E00), frame # 21627
+[2021.03.09-22.30.15:495][627]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002244BC13880), frame # 21627
+[2021.03.09-22.30.15:605][627]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.09-22.30.15:615][627]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.03.09-22.30.15:639][627]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.09-22.30.15:639][627]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.138ms to complete.
+[2021.03.09-22.30.15:639][627]LogFileHelpers: Loading map 'Nature_Map' took 0.609
+[2021.03.09-22.30.15:639][627]LogSlate: Window 'Open Level' being destroyed
+[2021.03.09-22.37.41:086][113]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Nature_Map.Nature_Map
+[2021.03.09-22.37.41:095][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.03.09-22.37.43:758][113]LogSlate: Window 'Save Content' being destroyed
+[2021.03.09-22.37.43:781][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.03.09-22.37.43:788][113]LogSavePackage: Moving '../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Saved/Beach_Map9829A4794CA7D7949315E49F12929FA7.tmp' to '../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Content/Maps/Beach_Map.umap'
+[2021.03.09-22.37.43:794][113]LogFileHelpers: Saving map 'Beach_Map' took 0.026
+[2021.03.09-22.37.43:794][113]Cmd: MAP LOAD FILE="../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Content/Maps/Nature_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.09-22.37.43:794][113]LightingResults: New page: Lighting Build
+[2021.03.09-22.37.43:794][113]LoadErrors: New page: Loading map: Nature_Map.umap
+[2021.03.09-22.37.43:796][113]LogWorld: UWorld::CleanupWorld for Nature_Map, bSessionEnded=true, bCleanupResources=true
+[2021.03.09-22.37.43:796][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.09-22.37.43:796][113]MapCheck: New page: Map Check
+[2021.03.09-22.37.43:796][113]LightingResults: New page: Lighting Build
+[2021.03.09-22.37.43:804][113]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000224666A0E00), frame # 28113
+[2021.03.09-22.37.43:804][113]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002244BC13880), frame # 28113
+[2021.03.09-22.37.43:805][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.03.09-22.37.43:814][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.03.09-22.37.43:821][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.03.09-22.37.43:834][113]LogAIModule: Creating AISystem for world Nature_Map
+[2021.03.09-22.37.43:835][113]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002247A673C00), frame # 28113
+[2021.03.09-22.37.43:835][113]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002244B126700), frame # 28113
+[2021.03.09-22.37.43:942][113]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.09-22.37.43:951][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.03.09-22.37.43:969][113]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.09-22.37.43:979][113]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 9.262ms to complete.
+[2021.03.09-22.37.43:979][113]LogFileHelpers: Loading map 'Nature_Map' took 0.184
+[2021.03.09-22.37.44:002][113]AssetCheck: New page: Asset Save: Beach_Map
+[2021.03.09-22.37.44:002][113]LogContentValidation: Display: Validating World /Game/Maps/Beach_Map.Beach_Map
+[2021.03.09-22.37.45:517][292]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Nature_Map.Nature_Map
+[2021.03.09-22.37.45:524][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.03.09-22.37.45:525][292]Cmd: MAP LOAD FILE="../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Content/Maps/Nature_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.09-22.37.45:525][292]LightingResults: New page: Lighting Build
+[2021.03.09-22.37.45:525][292]LoadErrors: New page: Loading map: Nature_Map.umap
+[2021.03.09-22.37.45:560][292]LogWorld: UWorld::CleanupWorld for Nature_Map, bSessionEnded=true, bCleanupResources=true
+[2021.03.09-22.37.45:560][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.09-22.37.45:560][292]MapCheck: New page: Map Check
+[2021.03.09-22.37.45:560][292]LightingResults: New page: Lighting Build
+[2021.03.09-22.37.45:567][292]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002244B126700), frame # 28292
+[2021.03.09-22.37.45:567][292]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002247A673C00), frame # 28292
+[2021.03.09-22.37.45:568][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.03.09-22.37.45:576][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.03.09-22.37.45:584][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.03.09-22.37.45:601][292]LogAIModule: Creating AISystem for world Nature_Map
+[2021.03.09-22.37.45:601][292]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002244B095400), frame # 28292
+[2021.03.09-22.37.45:601][292]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002244B143D80), frame # 28292
+[2021.03.09-22.37.45:723][292]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.09-22.37.45:733][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.03.09-22.37.45:751][292]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.09-22.37.45:751][292]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.133ms to complete.
+[2021.03.09-22.37.45:751][292]LogFileHelpers: Loading map 'Nature_Map' took 0.226
+[2021.03.09-22.37.46:547][383]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Nature_Map.Nature_Map
+[2021.03.09-22.37.46:554][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.03.09-22.37.46:555][383]Cmd: MAP LOAD FILE="../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Content/Maps/Nature_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.09-22.37.46:555][383]LightingResults: New page: Lighting Build
+[2021.03.09-22.37.46:555][383]LoadErrors: New page: Loading map: Nature_Map.umap
+[2021.03.09-22.37.46:557][383]LogWorld: UWorld::CleanupWorld for Nature_Map, bSessionEnded=true, bCleanupResources=true
+[2021.03.09-22.37.46:557][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.09-22.37.46:557][383]MapCheck: New page: Map Check
+[2021.03.09-22.37.46:557][383]LightingResults: New page: Lighting Build
+[2021.03.09-22.37.46:564][383]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002244B143D80), frame # 28383
+[2021.03.09-22.37.46:564][383]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002244B095400), frame # 28383
+[2021.03.09-22.37.46:565][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.03.09-22.37.46:578][383]LogAIModule: Creating AISystem for world Nature_Map
+[2021.03.09-22.37.46:578][383]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002247AFC1800), frame # 28383
+[2021.03.09-22.37.46:578][383]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002244B1BA840), frame # 28383
+[2021.03.09-22.37.46:714][383]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.09-22.37.46:723][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.03.09-22.37.46:741][383]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.09-22.37.46:741][383]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.133ms to complete.
+[2021.03.09-22.37.46:741][383]LogFileHelpers: Loading map 'Nature_Map' took 0.186
+[2021.03.09-22.37.47:303][446]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Nature_Map.Nature_Map
+[2021.03.09-22.37.47:310][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.03.09-22.37.47:311][446]Cmd: MAP LOAD FILE="../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Content/Maps/Nature_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.09-22.37.47:311][446]LightingResults: New page: Lighting Build
+[2021.03.09-22.37.47:311][446]LoadErrors: New page: Loading map: Nature_Map.umap
+[2021.03.09-22.37.47:350][446]LogWorld: UWorld::CleanupWorld for Nature_Map, bSessionEnded=true, bCleanupResources=true
+[2021.03.09-22.37.47:350][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.09-22.37.47:350][446]MapCheck: New page: Map Check
+[2021.03.09-22.37.47:350][446]LightingResults: New page: Lighting Build
+[2021.03.09-22.37.47:358][446]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002244B1BA840), frame # 28446
+[2021.03.09-22.37.47:358][446]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002247AFC1800), frame # 28446
+[2021.03.09-22.37.47:359][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.03.09-22.37.47:372][446]LogAIModule: Creating AISystem for world Nature_Map
+[2021.03.09-22.37.47:372][446]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022479CF1600), frame # 28446
+[2021.03.09-22.37.47:372][446]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002244B19EC00), frame # 28446
+[2021.03.09-22.37.47:524][446]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.09-22.37.47:534][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.03.09-22.37.47:552][446]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.09-22.37.47:552][446]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.123ms to complete.
+[2021.03.09-22.37.47:552][446]LogFileHelpers: Loading map 'Nature_Map' took 0.241
+[2021.03.09-22.37.49:418][664]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Beach_Map.Beach_Map
+[2021.03.09-22.37.49:426][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.03.09-22.37.49:426][664]Cmd: MAP LOAD FILE="../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Content/Maps/Beach_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.09-22.37.49:427][664]LightingResults: New page: Lighting Build
+[2021.03.09-22.37.49:427][664]LoadErrors: New page: Loading map: Beach_Map.umap
+[2021.03.09-22.37.49:470][664]LogWorld: UWorld::CleanupWorld for Nature_Map, bSessionEnded=true, bCleanupResources=true
+[2021.03.09-22.37.49:470][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.09-22.37.49:470][664]MapCheck: New page: Map Check
+[2021.03.09-22.37.49:470][664]LightingResults: New page: Lighting Build
+[2021.03.09-22.37.49:478][664]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002244B19EC00), frame # 28664
+[2021.03.09-22.37.49:478][664]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022479CF1600), frame # 28664
+[2021.03.09-22.37.49:479][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.03.09-22.37.49:585][664]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.09-22.37.49:585][664]LogAIModule: Creating AISystem for world Beach_Map
+[2021.03.09-22.37.49:585][664]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022482252E00), frame # 28664
+[2021.03.09-22.37.49:585][664]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002244B19EC00), frame # 28664
+[2021.03.09-22.37.49:593][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.03.09-22.37.49:611][664]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.09-22.37.49:611][664]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.123ms to complete.
+[2021.03.09-22.37.49:611][664]LogFileHelpers: Loading map 'Beach_Map' took 0.184
+[2021.03.09-22.46.53:201][409]Cmd: SELECT NONE
+[2021.03.09-22.47.41:697][610]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Tilesets\png\tileset48x48.png)
+[2021.03.09-22.47.41:700][610]LogTexture: Display: Building textures: tileset48x48 (AutoDXT, 384X384)
+[2021.03.09-22.48.30:318][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.03.09-22.48.30:320][755]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Beach_Map' took 0.010
+[2021.03.09-22.48.30:320][755]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/Beach/tileset48x48] ([1] browsable assets)...
+[2021.03.09-22.48.30:324][755]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Maps/Beach/tileset48x48.tileset48x48]
+[2021.03.09-22.48.30:324][755]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Beach/tileset48x48]
+[2021.03.09-22.48.30:336][755]LogSavePackage: Moving '../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Saved/tileset48x48_Auto165B929D94A432CBF5B9D1FA1DE2C2022.tmp' to '../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Saved/Autosaves/Game/Maps/Beach/tileset48x48_Auto1.uasset'
+[2021.03.09-22.48.30:337][755]LogFileHelpers: Auto-saving content packages took 0.017
+[2021.03.09-22.54.46:365][366]LogTexture: Display: Building textures: tileset48x48 (BGRA8, 384X384)
+[2021.03.09-22.55.09:522][ 89]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/Maps/Beach/BeachTileSet.BeachTileSet
+[2021.03.09-22.55.09:603][ 89]LogSlate: Took 0.000301 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.03.09-22.58.31:005][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.03.09-22.58.31:007][447]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Beach_Map' took 0.012
+[2021.03.09-22.58.31:008][447]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/Beach/tileset48x48] ([1] browsable assets)...
+[2021.03.09-22.58.31:013][447]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Maps/Beach/tileset48x48.tileset48x48]
+[2021.03.09-22.58.31:013][447]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Beach/tileset48x48]
+[2021.03.09-22.58.31:026][447]LogSavePackage: Moving '../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Saved/tileset48x48_Auto200F96D7842B90866647C70824972B0B6.tmp' to '../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Saved/Autosaves/Game/Maps/Beach/tileset48x48_Auto2.uasset'
+[2021.03.09-22.58.31:027][447]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/Beach/tileset48x48_Sprite] ([1] browsable assets)...
+[2021.03.09-22.58.31:032][447]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Maps/Beach/tileset48x48_Sprite.tileset48x48_Sprite]
+[2021.03.09-22.58.31:032][447]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Beach/tileset48x48_Sprite]
+[2021.03.09-22.58.31:044][447]LogSavePackage: Moving '../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Saved/tileset48x48_Sprite_Auto244FA9DFE4496079AAB94EEA17FC16A58.tmp' to '../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Saved/Autosaves/Game/Maps/Beach/tileset48x48_Sprite_Auto2.uasset'
+[2021.03.09-22.58.31:045][447]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/Beach/BeachTileSet] ([1] browsable assets)...
+[2021.03.09-22.58.31:051][447]OBJ SavePackage:     Rendered thumbnail for [PaperTileSet /Game/Maps/Beach/BeachTileSet.BeachTileSet]
+[2021.03.09-22.58.31:051][447]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Beach/BeachTileSet]
+[2021.03.09-22.58.31:075][447]LogSavePackage: Moving '../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Saved/BeachTileSet_Auto2BDA20EF048D4D9E628BA8BA9CF32289A.tmp' to '../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Saved/Autosaves/Game/Maps/Beach/BeachTileSet_Auto2.uasset'
+[2021.03.09-22.58.31:076][447]LogFileHelpers: Auto-saving content packages took 0.069
+[2021.03.09-23.10.18:767][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Beach/BeachTileSet" FILE="../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Content/Maps/Beach/BeachTileSet.uasset" SILENT=true
+[2021.03.09-23.10.18:791][ 38]LogSavePackage: Moving '../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Saved/BeachTileSetC08F60354577593E32E65AA8F421FA0B.tmp' to '../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Content/Maps/Beach/BeachTileSet.uasset'
+[2021.03.09-23.10.18:808][ 38]AssetCheck: New page: Asset Save: BeachTileSet
+[2021.03.09-23.10.18:808][ 38]LogContentValidation: Display: Validating PaperTileSet /Game/Maps/Beach/BeachTileSet.BeachTileSet
+[2021.03.09-23.10.20:199][193]LogSlate: Window 'BeachTileSet' being destroyed
+[2021.03.09-23.10.20:204][193]LogSlate: Window 'BeachTileSet' being destroyed
+[2021.03.09-23.10.20:221][193]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.03.09-23.10.20:221][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.09-23.17.03:473][267]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Beach" FILE="../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Content/Maps/Beach.uasset" SILENT=true
+[2021.03.09-23.17.03:482][267]LogSavePackage: Moving '../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Saved/Beach914D205D4601D31899D8D094488C278D.tmp' to '../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Content/Maps/Beach.uasset'
+[2021.03.09-23.17.03:565][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.03.09-23.17.03:579][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.03.09-23.17.03:587][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.03.09-23.17.03:601][267]AssetCheck: New page: Asset Save: Beach
+[2021.03.09-23.17.03:601][267]LogContentValidation: Display: Validating PaperTileMap /Game/Maps/Beach.Beach
+[2021.03.09-23.17.08:600][859]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Beach/Beach" FILE="../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Content/Maps/Beach/Beach.uasset" SILENT=true
+[2021.03.09-23.17.08:609][859]LogSavePackage: Moving '../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Saved/BeachBE6DA1944BB68DA389D7029599435554.tmp' to '../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Content/Maps/Beach/Beach.uasset'
+[2021.03.09-23.17.08:696][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.03.09-23.17.08:710][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.03.09-23.17.08:717][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.03.09-23.17.08:733][859]AssetCheck: New page: Asset Save: Beach
+[2021.03.09-23.17.08:733][859]LogContentValidation: Display: Validating PaperTileMap /Game/Maps/Beach/Beach.Beach
+[2021.03.09-23.17.29:553][320]LogSavePackage: Moving '../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Saved/BeachTileSet59C38FDE43A74D0F65EBAE93BC775B96.tmp' to '../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Content/Maps/Beach/TileSetStuff/BeachTileSet.uasset'
+[2021.03.09-23.17.29:578][320]LogSavePackage: Moving '../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Saved/tileset48x481C544BD340E6E680DF602C95949A7E13.tmp' to '../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Content/Maps/Beach/TileSetStuff/tileset48x48.uasset'
+[2021.03.09-23.17.29:599][320]LogSavePackage: Moving '../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Saved/tileset48x48_Sprite7DCED6A745E5537223153EBBB0D45167.tmp' to '../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Content/Maps/Beach/TileSetStuff/tileset48x48_Sprite.uasset'
+[2021.03.09-23.17.29:788][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.03.09-23.17.29:797][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.03.09-23.17.29:804][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.03.09-23.17.29:817][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.03.09-23.17.29:824][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.03.09-23.17.29:840][320]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.09-23.17.29:840][320]LogContentValidation: Display: Validating PaperTileSet /Game/Maps/Beach/TileSetStuff/BeachTileSet.BeachTileSet
+[2021.03.09-23.17.29:840][320]LogContentValidation: Display: Validating Texture2D /Game/Maps/Beach/TileSetStuff/tileset48x48.tileset48x48
+[2021.03.09-23.17.29:840][320]LogContentValidation: Display: Validating PaperSprite /Game/Maps/Beach/TileSetStuff/tileset48x48_Sprite.tileset48x48_Sprite
+[2021.03.09-23.17.31:024][459]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/Maps/Beach/Beach.Beach
+[2021.03.09-23.17.31:132][459]LogRenderer: Reallocating scene render targets to support 1208x920 Format 10 NumSamples 1 (Frame:1).
+[2021.03.09-23.18.45:636][478]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.03.09-23.18.45:637][478]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Beach_Map' took 0.009
+[2021.03.09-23.18.45:638][478]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Beach/Beach] ([1] browsable assets)...
+[2021.03.09-23.18.45:638][478]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Beach/Beach]
+[2021.03.09-23.18.46:098][478]LogSavePackage: Moving '../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Saved/Beach_Auto35C0AC0224C5659D61FDDF5A37F73401C.tmp' to '../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Saved/Autosaves/Game/Maps/Beach/Beach_Auto3.uasset'
+[2021.03.09-23.18.46:098][478]LogFileHelpers: Auto-saving content packages took 0.461
+[2021.03.09-23.25.28:426][329]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\jonny\Desktop\UE Pi-rate Project\Backgrounds\BeachBG.png)
+[2021.03.09-23.25.28:469][329]LogTexture: Display: Building textures: BeachBG (AutoDXT, 2048X1448)
+[2021.03.09-23.25.30:269][390]LogEditorFactories: Performing atomic reimport of [C:/Users/jonny/Desktop/UE Pi-rate Project/Backgrounds/BeachBG.png]
+[2021.03.09-23.25.30:270][390]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/jonny/Desktop/UE Pi-rate Project/Backgrounds/BeachBG.png)
+[2021.03.09-23.25.30:312][390]LogTexture: Display: Building textures: BeachBG (AutoDXT, 2048X1448)
+[2021.03.09-23.25.30:534][390]LogEditorFactories: -- imported successfully
+[2021.03.09-23.25.40:220][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.03.09-23.25.41:058][444]LogSlate: Window 'Delete Assets' being destroyed
+[2021.03.09-23.25.41:112][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.03.09-23.25.44:597][825]LogTexture: Display: Building textures: BeachBG (BGRA8, 2048X1448)
+[2021.03.09-23.25.53:060][802]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BeachBG_Sprite)
+[2021.03.09-23.25.57:965][382]Cmd: EDIT COPY
+[2021.03.09-23.25.58:191][407]Cmd: EDIT PASTE
+[2021.03.09-23.26.07:400][501]LogEditorViewport: Clicking Background
+[2021.03.09-23.26.09:999][812]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BeachBG_Sprite2)
+[2021.03.09-23.26.16:662][607]LogEditorViewport: Clicking Background
+[2021.03.09-23.26.24:868][590]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BeachBG_Sprite2)
+[2021.03.09-23.26.46:070][120]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BeachBG_Sprite2)
+[2021.03.09-23.26.58:354][396]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BeachBG_Sprite2)
+[2021.03.09-23.26.58:840][453]Cmd: DELETE
+[2021.03.09-23.26.58:840][453]Cmd: ACTOR DELETE
+[2021.03.09-23.26.58:842][453]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2021.03.09-23.26.58:850][453]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.03.09-23.26.58:852][453]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2021.03.09-23.26.59:272][504]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (BeachBG_Sprite)
+[2021.03.09-23.26.59:365][512]Cmd: DELETE
+[2021.03.09-23.26.59:365][512]Cmd: ACTOR DELETE
+[2021.03.09-23.26.59:365][512]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2021.03.09-23.26.59:373][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.03.09-23.26.59:374][512]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2021.03.09-23.28.46:349][940]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.03.09-23.28.46:391][940]LogSavePackage: Moving '../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Saved/Beach_Map_Auto4B7EB1C074CF284FDEE9DC9B9A0F94D57.tmp' to '../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Saved/Autosaves/Game/Maps/Beach_Map_Auto4.umap'
+[2021.03.09-23.28.46:396][940]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Beach_Map' took 0.055
+[2021.03.09-23.28.46:396][940]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.055
+[2021.03.09-23.28.46:397][940]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/Beach/BeachBG] ([1] browsable assets)...
+[2021.03.09-23.28.46:401][940]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Maps/Beach/BeachBG.BeachBG]
+[2021.03.09-23.28.46:401][940]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Beach/BeachBG]
+[2021.03.09-23.28.46:414][940]LogSavePackage: Moving '../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Saved/BeachBG_Auto45259A24F4E5A50908669D4ABE10EB13B.tmp' to '../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Saved/Autosaves/Game/Maps/Beach/BeachBG_Auto4.uasset'
+[2021.03.09-23.28.46:415][940]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/Beach/BeachBG_Sprite] ([1] browsable assets)...
+[2021.03.09-23.28.46:424][940]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Maps/Beach/BeachBG_Sprite.BeachBG_Sprite]
+[2021.03.09-23.28.46:424][940]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Beach/BeachBG_Sprite]
+[2021.03.09-23.28.46:435][940]LogSavePackage: Moving '../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Saved/BeachBG_Sprite_Auto43F2C977A478CFBB9BC289E929A78CA89.tmp' to '../../../../../../Users/jonny/Documents/Unreal Projects/MyProject/Pirate/Pi-rate JR/Saved/Autosaves/Game/Maps/Beach/BeachBG_Sprite_Auto4.uasset'
+[2021.03.09-23.28.46:436][940]LogFileHelpers: Auto-saving content packages took 0.039
+[2021.03.09-23.31.10:797][386]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.03.09-23.31.11:596][386]LogSlate: Window 'Delete Assets' being destroyed
+[2021.03.09-23.31.11:742][386]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/Maps/Beach/BeachBG.BeachBG
+	Asset Name: /Game/Maps/Beach/BeachBG_Sprite.BeachBG_Sprite
+[2021.03.09-23.31.20:349][386]LogSlate: Window 'Message' being destroyed
+[2021.03.09-23.31.20:353][386]Message dialog closed, result: Ok, title: Message, text: Texture2D /Game/Maps/Beach/BeachBG.BeachBG is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of Texture2D /Game/Maps/Beach/BeachBG.BeachBG:
+   PaperSprite /Game/Maps/Beach/BeachBG_Sprite.BeachBG_Sprite (standalone) (1)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+
+
+[2021.03.09-23.31.20:353][386]LogObjectTools: Warning: ForceDeleteObject failed to delete BeachBG, this package is now potentially corrupt
+[2021.03.09-23.31.20:432][386]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.03.09-23.31.20:435][386]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.03.09-23.31.21:725][386]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.290 s
+[2021.03.09-23.31.21:725][386]LogOutputDevice: Error: === Handled ensure: ===
+[2021.03.09-23.31.21:725][386]LogOutputDevice: Error: 
+[2021.03.09-23.31.21:725][386]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/ObjectTools.cpp] [Line: 2897]
+[2021.03.09-23.31.21:725][386]LogOutputDevice: Error: 
+[2021.03.09-23.31.21:725][386]LogOutputDevice: Error: 					Failed to unload all packages during ForceDeleteObjects - 
+[2021.03.09-23.31.21:725][386]LogOutputDevice: Error: 					these packages are likely corrupt. Consider restarting the 
+[2021.03.09-23.31.21:725][386]LogOutputDevice: Error: 					editor, noting which assets remain and then deleting them 
+[2021.03.09-23.31.21:725][386]LogOutputDevice: Error: 					from the file system manually: 
+[2021.03.09-23.31.21:725][386]LogOutputDevice: Error: /Game/Maps/Beach/BeachBG
+[2021.03.09-23.31.21:725][386]LogOutputDevice: Error: Stack: 
+[2021.03.09-23.31.21:725][386]LogOutputDevice: Error: [Callstack] 0x00007ffc4067eb38 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.09-23.31.21:725][386]LogOutputDevice: Error: [Callstack] 0x00007ffc3ff66d19 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.09-23.31.21:725][386]LogOutputDevice: Error: [Callstack] 0x00007ffc3f719e39 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.09-23.31.21:725][386]LogOutputDevice: Error: [Callstack] 0x00007ffc3f9bd43e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.09-23.31.21:725][386]LogOutputDevice: Error: [Callstack] 0x00007ffc3f9b6dc7 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.09-23.31.21:725][386]LogOutputDevice: Error: [Callstack] 0x00007ffc46cf207e UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.09-23.31.21:725][386]LogOutputDevice: Error: [Callstack] 0x00007ffc46d0b27e UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.09-23.31.21:725][386]LogOutputDevice: Error: [Callstack] 0x00007ffc46b52dc8 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.09-23.31.21:725][386]LogOutputDevice: Error: [Callstack] 0x00007ffc46bd69cf UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.09-23.31.21:725][386]LogOutputDevice: Error: [Callstack] 0x00007ffc46bbf4b2 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.09-23.31.21:725][386]LogOutputDevice: Error: [Callstack] 0x00007ffc46bb2392 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.09-23.31.21:725][386]LogOutputDevice: Error: [Callstack] 0x00007ffc5d3d7f88 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.09-23.31.21:725][386]LogOutputDevice: Error: [Callstack] 0x00007ffc5d3c5c87 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.09-23.31.21:725][386]LogOutputDevice: Error: [Callstack] 0x00007ffc5d3da619 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.09-23.31.21:725][386]LogOutputDevice: Error: [Callstack] 0x00007ffc5d3c17d0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.09-23.31.21:725][386]LogOutputDevice: Error: [Callstack] 0x00007ffc98945c1d USER32.dll!UnknownFunction []
+[2021.03.09-23.31.21:725][386]LogOutputDevice: Error: [Callstack] 0x00007ffc98945612 USER32.dll!UnknownFunction []
+[2021.03.09-23.31.21:725][386]LogOutputDevice: Error: [Callstack] 0x00007ffc5d3db9d9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.09-23.31.21:725][386]LogOutputDevice: Error: [Callstack] 0x00007ffc46be0d5d UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.09-23.31.21:725][386]LogOutputDevice: Error: [Callstack] 0x00007ffc46b7bdb7 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.09-23.31.21:725][386]LogOutputDevice: Error: [Callstack] 0x00007ffc3fa4f00e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.09-23.31.21:725][386]LogOutputDevice: Error: [Callstack] 0x00007ffc3ff5af1c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.09-23.31.21:725][386]LogOutputDevice: Error: [Callstack] 0x00007ffc3ff5a356 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.09-23.31.21:725][386]LogOutputDevice: Error: [Callstack] 0x00007ffc33f5977e UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.03.09-23.31.21:725][386]LogOutputDevice: Error: [Callstack] 0x00007ffc340875d6 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.03.09-23.31.21:725][386]LogOutputDevice: Error: [Callstack] 0x00007ffc340674ae UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.03.09-23.31.21:725][386]LogOutputDevice: Error: [Callstack] 0x00007ffc46b8f238 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.09-23.31.21:726][386]LogOutputDevice: Error: [Callstack] 0x00007ffc46c7ab51 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.09-23.31.21:726][386]LogOutputDevice: Error: [Callstack] 0x00007ffc46c81320 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.09-23.31.21:726][386]LogOutputDevice: Error: [Callstack] 0x00007ffc46c5a937 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.09-23.31.21:726][386]LogOutputDevice: Error: [Callstack] 0x00007ffc46cf207e UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.09-23.31.21:726][386]LogOutputDevice: Error: [Callstack] 0x00007ffc46d0b27e UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.09-23.31.21:726][386]LogOutputDevice: Error: [Callstack] 0x00007ffc46c82a95 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.09-23.31.21:726][386]LogOutputDevice: Error: [Callstack] 0x00007ffc46b52dc8 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.09-23.31.21:726][386]LogOutputDevice: Error: [Callstack] 0x00007ffc46bd69cf UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.09-23.31.21:726][386]LogOutputDevice: Error: [Callstack] 0x00007ffc46bbf4b2 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.09-23.31.21:726][386]LogOutputDevice: Error: [Callstack] 0x00007ffc46bb2392 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.09-23.31.21:726][386]LogOutputDevice: Error: [Callstack] 0x00007ffc5d3d7f88 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.09-23.31.21:726][386]LogOutputDevice: Error: [Callstack] 0x00007ffc5d3c5c87 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.09-23.31.21:726][386]LogOutputDevice: Error: [Callstack] 0x00007ffc5d3da619 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.09-23.31.21:726][386]LogOutputDevice: Error: [Callstack] 0x00007ffc5d3c17d0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.09-23.31.21:726][386]LogOutputDevice: Error: [Callstack] 0x00007ffc98945c1d USER32.dll!UnknownFunction []
+[2021.03.09-23.31.21:726][386]LogOutputDevice: Error: [Callstack] 0x00007ffc98945612 USER32.dll!UnknownFunction []
+[2021.03.09-23.31.21:726][386]LogOutputDevice: Error: [Callstack] 0x00007ffc5d3dbb34 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.09-23.31.21:726][386]LogOutputDevice: Error: [Callstack] 0x00007ff790f468c4 UE4Editor.exe!UnknownFunction []
+[2021.03.09-23.31.21:726][386]LogOutputDevice: Error: [Callstack] 0x00007ff790f5ba7c UE4Editor.exe!UnknownFunction []
+[2021.03.09-23.31.21:726][386]LogOutputDevice: Error: [Callstack] 0x00007ff790f5bb5a UE4Editor.exe!UnknownFunction []
+[2021.03.09-23.31.21:726][386]LogOutputDevice: Error: [Callstack] 0x00007ff790f6e31d UE4Editor.exe!UnknownFunction []
+[2021.03.09-23.31.21:726][386]LogOutputDevice: Error: [Callstack] 0x00007ff790f7145a UE4Editor.exe!UnknownFunction []
+[2021.03.09-23.31.21:726][386]LogOutputDevice: Error: [Callstack] 0x00007ffc985c7c24 KERNEL32.DLL!UnknownFunction []
+[2021.03.09-23.31.21:726][386]LogOutputDevice: Error: [Callstack] 0x00007ffc9a40d721 ntdll.dll!UnknownFunction []
+[2021.03.09-23.31.21:726][386]LogOutputDevice: Error: 
